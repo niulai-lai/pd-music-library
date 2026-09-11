@@ -1,0 +1,26 @@
+[
+  {
+    "title": "示例：月光（示例条目，请替换或删除）",
+    "titleEn": "Clair de lune (example)",
+    "composer": "德彪西",
+    "composerLife": "1862-1918",
+    "performer": "表演者或乐团名称",
+    "performerDetail": "补充说明，如：录音来源、专辑名",
+    "recordedYear": "1993",
+    "era": "印象派",
+    "category": "古典音乐",
+    "instrument": "铜管",
+    "genre": "钢琴曲",
+    "tags": "柔和;安静;月夜",
+    "scenes": "audiobook;live",
+    "durationSec": 0,
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/....mp3",
+    "scoreUrl": "https://upload.wikimedia.org/wikipedia/commons/....jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:....jpg",
+    "sourceName": "Wikimedia Commons",
+    "license": "Public domain",
+    "background": "背景介绍（建议100-200字）：创作背景、作者生平、历史背景。导入前请务必完成版权核查（见 docs/compliance-checklist.md）。",
+    "rare": false,
+    "featured": false
+  }
+]
