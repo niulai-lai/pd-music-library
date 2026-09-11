@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="公有领域音乐图书馆 —— 收录版权保护期已满的古典音乐、民国老唱片、戏曲曲艺、红色歌曲、民间音乐与乐谱，仅供学习研究，全部可溯源。">
+<meta name="color-scheme" content="light dark">
+<title>公有领域音乐图书馆 · Public Domain Music Library</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%238b2e2e'/%3E%3Ctext x='32' y='44' font-size='36' text-anchor='middle' fill='%23f5efe2' font-family='serif'%3E乐%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#app">跳到主要内容</a>
+
+<!-- ============ 顶部导航 ============ -->
+<header class="site-header" id="siteHeader">
+  <div class="header-inner">
+    <a class="brand" href="#/" aria-label="回到首页">
+      <span class="brand-seal" aria-hidden="true">乐</span>
+      <span class="brand-text">
+        <strong>公有领域音乐图书馆</strong>
+        <small>Public Domain Music Library</small>
+      </span>
+    </a>
+
+    <nav class="main-nav" id="mainNav" aria-label="主导航">
+      <a href="#/" data-nav="home">首页</a>
+      <a href="#/browse" data-nav="browse">分类浏览</a>
+      <a href="#/scenes" data-nav="scenes">场景推荐</a>
+      <a href="#/library" data-nav="library">我的书架</a>
+      <a href="#/sources" data-nav="sources">资源来源</a>
+      <a href="#/about" data-nav="about">关于本站</a>
+    </nav>
+
+    <div class="header-tools">
+      <div class="search-box" role="search">
+        <input type="search" id="globalSearch" placeholder="搜索作品 / 作者 / 拼音，如：beiduofen"
+               aria-label="站内搜索" autocomplete="off">
+        <button type="button" id="searchBtn" aria-label="搜索">⌕</button>
+        <div class="search-suggest" id="searchSuggest" hidden></div>
+      </div>
+      <button type="button" class="icon-btn" id="themeToggle" title="切换深浅色" aria-label="切换深浅色模式">◐</button>
+      <button type="button" class="icon-btn" id="fontToggle" title="调整字号" aria-label="调整字号">A</button>
+      <button type="button" class="icon-btn nav-toggle" id="navToggle" aria-label="打开菜单" aria-expanded="false">☰</button>
+    </div>
+  </div>
+  <div class="font-pop" id="fontPop" hidden>
+    <span class="font-pop-label">字号</span>
+    <button data-font="small">小</button>
+    <button data-font="normal" class="active">标准</button>
+    <button data-font="large">大</button>
+    <button data-font="xlarge">特大</button>
+  </div>
+</header>
+
+<!-- ============ 主内容区 ============ -->
+<main id="app" class="app-main" tabindex="-1">
+  <div class="view-loading" id="bootLoading">
+    <div class="spinner" aria-hidden="true"></div>
+    <p>正在整理馆藏……</p>
+  </div>
+  <noscript>
+    <div class="noscript-warn">本站需要启用 JavaScript 才能浏览与播放音乐。</div>
+  </noscript>
+</main>
+
+<!-- ============ 全局播放条 ============ -->
+<section class="player-bar" id="playerBar" hidden aria-label="音频播放器">
+  <div class="player-left">
+    <img class="player-cover" id="playerCover" src="" alt="" hidden>
+    <div class="player-meta">
+      <a class="player-title" id="playerTitle" href="#">未在播放</a>
+      <span class="player-artist" id="playerArtist">公有领域音乐图书馆</span>
+    </div>
+    <div class="player-actions">
+      <button type="button" class="p-btn" id="btnFav" title="收藏 (F)" aria-label="收藏">♡</button>
+    </div>
+  </div>
+
+  <div class="player-center">
+    <div class="player-buttons">
+      <button type="button" class="p-btn" id="btnPrev" title="上一首 (P)" aria-label="上一首">⏮</button>
+      <button type="button" class="p-btn p-play" id="btnPlay" title="播放/暂停 (空格)" aria-label="播放或暂停" aria-keyshortcuts="Space">▶</button>
+      <button type="button" class="p-btn" id="btnNext" title="下一首 (N)" aria-label="下一首">⏭</button>
+      <button type="button" class="p-btn" id="btnLoop" title="循环模式 (L)：关闭" aria-label="循环模式">🔁<span class="loop-badge" id="loopBadge" hidden>1</span></button>
+      <button type="button" class="p-btn" id="btnMute" title="静音 (M)" aria-label="静音">🔊</button>
+    </div>
+    <div class="player-progress">
+      <span class="time" id="timeCur">0:00</span>
+      <input type="range" class="seek" id="seekBar" min="0" max="1000" value="0" step="1" aria-label="播放进度">
+      <span class="time" id="timeDur">0:00</span>
+    </div>
+  </div>
+
+  <div class="player-right">
+    <canvas class="viz" id="vizCanvas" width="72" height="28" aria-hidden="true"></canvas>
+    <div class="vol-wrap" title="音量 (↑/↓)">
+      <span class="vol-icon" aria-hidden="true">𝆹𝅥</span>
+      <input type="range" class="vol" id="volBar" min="0" max="100" value="80" aria-label="音量">
+    </div>
+    <div class="rate-wrap">
+      <button type="button" class="p-btn" id="btnRate" title="倍速 (R)" aria-label="播放倍速">1.0×</button>
+    </div>
+    <button type="button" class="p-btn p-collapse" id="btnCollapse" title="收起/展开播放条" aria-label="收起播放条">▾</button>
+  </div>
+</section>
+
+<!-- ============ 页脚（合规免责声明固定于此） ============ -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col footer-brand">
+      <div class="brand-mini"><span class="brand-seal" aria-hidden="true">乐</span> 公有领域音乐图书馆</div>
+      <p class="disclaimer" id="disclaimer">
+        本站所有内容均来自公开公有领域资源，仅供学习、研究、创作使用。作品版权状态以来源标注为准，商用前请自行核实。如您认为内容侵犯版权，请联系立即移除。
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>浏览</h4>
+      <a href="#/browse?cat=古典音乐">古典音乐</a>
+      <a href="#/browse?cat=民国老唱片">民国老唱片</a>
+      <a href="#/browse?cat=戏曲曲艺">戏曲曲艺</a>
+      <a href="#/browse?cat=红色歌曲">红色歌曲</a>
+      <a href="#/browse?cat=民间音乐">民间音乐</a>
+      <a href="#/browse?cat=乐谱库">乐谱库</a>
+    </div>
+    <div class="footer-col">
+      <h4>服务</h4>
+      <a href="#/scenes">场景推荐</a>
+      <a href="#/library">我的书架</a>
+      <a href="#/data">数据管理</a>
+      <a href="#/sources">资源来源</a>
+    </div>
+    <div class="footer-col">
+      <h4>合规</h4>
+      <a href="#/about">关于本站</a>
+      <a href="#/about#policy">收录规范</a>
+      <a href="docs/compliance-checklist.md" target="_blank" rel="noopener">版权自查清单</a>
+      <a href="#/sources">版权说明</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>无广告 · 无弹窗 · 免注册 · 数据本地保存于浏览器</span>
+    <span>© 2026 公有领域音乐图书馆 · 本站为静态开源项目</span>
+  </div>
+</footer>
+
+<div class="toast-wrap" id="toastWrap" aria-live="polite"></div>
+<div class="modal-root" id="modalRoot" hidden></div>
+<div class="lightbox" id="lightbox" hidden>
+  <button type="button" class="lb-close" id="lbClose" aria-label="关闭预览">✕</button>
+  <div class="lb-stage" id="lbStage"><img id="lbImg" src="" alt="乐谱预览"></div>
+  <div class="lb-tools">
+    <button type="button" data-zoom="out" aria-label="缩小">－</button>
+    <button type="button" data-zoom="in" aria-label="放大">＋</button>
+    <button type="button" data-zoom="reset" aria-label="恢复">适应</button>
+    <a class="lb-download" id="lbDownload" href="#" target="_blank" rel="noopener">下载原图</a>
+  </div>
+</div>
+
+<script src="assets/js/util.js"></script>
+<script src="assets/js/pinyin.js"></script>
+<script src="data/music.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/router.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="assets/js/player.js"></script>
+<script src="assets/js/views-common.js"></script>
+<script src="assets/js/views-home.js"></script>
+<script src="assets/js/views-browse.js"></script>
+<script src="assets/js/views-work.js"></script>
+<script src="assets/js/views-scene.js"></script>
+<script src="assets/js/views-library.js"></script>
+<script src="assets/js/views-misc.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
