@@ -1,0 +1,586 @@
+{
+ "commons:musopen-commons": [
+  {
+   "title": "File:Beethoven - Coriolan Overture, Op. 62 (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 88.4,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Beethoven - Coriolan Overture, Op. 62"
+  },
+  {
+   "title": "File:Borodin - In the Steppes of Central Asia (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Borodin_-_In_the_Steppes_of_Central_Asia_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 73.79,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Borodin - In the Steppes of Central Asia"
+  },
+  {
+   "title": "File:Brahms - Tragic Overture, Op. 81 (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Brahms_-_Tragic_Overture%2C_Op._81_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 134.27,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Brahms - Tragic Overture, Op. 81"
+  },
+  {
+   "title": "File:Mendelssohn - Hebrides Overture, Op. 26 (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mendelssohn_-_Hebrides_Overture%2C_Op._26_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 104.08,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Mendelssohn - Hebrides Overture, Op. 26"
+  },
+  {
+   "title": "File:Mozart - Die Zauberflöte, K620 - Overture (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mozart_-_Die_Zauberfl%C3%B6te%2C_K620_-_Overture_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 71.77,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Mozart - Die Zauberflöte, K620 - Overture"
+  },
+  {
+   "title": "File:Mozart - Le nozze di Figaro, K492 - Overture (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 44.1,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Mozart - Le nozze di Figaro, K492 - Overture"
+  },
+  {
+   "title": "File:Mozart - Symphony No. 40 in G minor, K550 - II. Andante (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_II._Andante_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 75.01,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Mozart - Symphony No. 40 in G minor, K550 - II. Andante"
+  },
+  {
+   "title": "File:Smetana - Má Vlast - Vltava (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Smetana_-_M%C3%A1_Vlast_-_Vltava_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 143.71,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Smetana - Má Vlast - Vltava"
+  }
+ ],
+ "commons:vivaldi": [],
+ "commons:bach-organ": [
+  {
+   "title": "File:Bach Cantata 39 opening with organ chords.wav",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bach_Cantata_39_opening_with_organ_chords.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/wav",
+   "sizeMB": 3.0,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "J.S.Bach, Cantata BWV39, opening bars"
+  },
+  {
+   "title": "File:Johann Sebastian Bach first movement Organ Sonata in C major BWV 529 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Johann_Sebastian_Bach_first_movement_Organ_Sonata_in_C_major_BWV_529_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 9.73,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the first movement of the organ sonata in C major, BWV 529 by Johann Sebastian Bach, recorded in July 1965 on the Silbermann organ of the village church in Großhartmannsdorf, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach first movement Organ Sonata in C minor BWV 526 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Johann_Sebastian_Bach_first_movement_Organ_Sonata_in_C_minor_BWV_526_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 7.35,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the first movement of the organ sonata in C minor, BWV 526 by Johann Sebastian Bach, recorded in July 1964 on the Silbermann organ in Fraureuth, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach first movement Organ Sonata in E minor BWV 528 Christoph Albrecht Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Johann_Sebastian_Bach_first_movement_Organ_Sonata_in_E_minor_BWV_528_Christoph_Albrecht_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 5.43,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the first movement of the organ sonata in E minor, BWV 528 by Johann Sebastian Bach, recorded in July 1966 on the Silbermann organ of the village church in Crostau, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach first movement Organ Sonata in G major BWV 530 Erich Piasetzki Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Johann_Sebastian_Bach_first_movement_Organ_Sonata_in_G_major_BWV_530_Erich_Piasetzki_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 7.85,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the first movement of the organ sonata in G major, BWV 530 by Johann Sebastian Bach, recorded in July 1968 on the Silbermann organ in the village church of Nassau near Dresden, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach second movement Organ Sonata in C major BWV 529 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Johann_Sebastian_Bach_second_movement_Organ_Sonata_in_C_major_BWV_529_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 10.49,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the second movement of the organ sonata in C major, BWV 529 by Johann Sebastian Bach, recorded in July 1965 on the Silbermann organ of the village church in Großhartmannsdorf, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach second movement Organ Sonata in C minor BWV 526 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Johann_Sebastian_Bach_second_movement_Organ_Sonata_in_C_minor_BWV_526_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 3.77,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the second movement of the organ sonata in C minor, BWV 526 by Johann Sebastian Bach, recorded in July 1964 on the Silbermann organ in Fraureuth, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach second movement Organ Sonata in D minor BWV 527 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Johann_Sebastian_Bach_second_movement_Organ_Sonata_in_D_minor_BWV_527_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 8.07,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the second movement of the organ sonata in D minor, BWV 527 by Johann Sebastian Bach, recorded in July 1965 on the Silbermann organ of the village church in Großhartmannsdorf, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach third movement Organ Sonata in C major BWV 529 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Johann_Sebastian_Bach_third_movement_Organ_Sonata_in_C_major_BWV_529_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 7.4,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the third movement of the organ sonata in C major, BWV 529 by Johann Sebastian Bach, recorded in July 1965 on the Silbermann organ of the village church in Großhartmannsdorf, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach third movement Organ Sonata in D minor BWV 527 Hans Otto Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Johann_Sebastian_Bach_third_movement_Organ_Sonata_in_D_minor_BWV_527_Hans_Otto_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 6.95,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the third movement of the organ sonata in D minor, BWV 527 by Johann Sebastian Bach, recorded in July 1965 on the Silbermann organ of the village church in Großhartmannsdorf, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach third movement Organ Sonata in E minor BWV 528 Christoph Albrecht Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Johann_Sebastian_Bach_third_movement_Organ_Sonata_in_E_minor_BWV_528_Christoph_Albrecht_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 5.13,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the third movement of the organ sonata in E minor, BWV 528 by Johann Sebastian Bach, recorded in July 1966 on the Silbermann organ of the village church in Crostau, GDR."
+  },
+  {
+   "title": "File:Johann Sebastian Bach third movement Organ Sonata in G major BWV 530 Erich Piasetzki Silbermann-Organ.mp3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Johann_Sebastian_Bach_third_movement_Organ_Sonata_in_G_major_BWV_530_Erich_Piasetzki_Silbermann-Organ.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/mpeg",
+   "sizeMB": 8.0,
+   "license": "CC BY 1.0",
+   "usage": "Creative Commons Attribution 1.0",
+   "desc": "MP3 of the third movement of the organ sonata in G major, BWV 530 by Johann Sebastian Bach, recorded in July 1968 on the Silbermann organ in the village church of Nassau near Dresden, GDR."
+  }
+ ],
+ "commons:beethoven-symphony": [
+  {
+   "title": "File:Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - I. Allegro con brio (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_I._Allegro_con_brio_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 159.12,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - I. Allegro con brio"
+  },
+  {
+   "title": "File:Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - III. Scherzo. Allegro vivace (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_III._Scherzo._Allegro_vivace_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 56.95,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - III. Scherzo. Allegro vivace"
+  },
+  {
+   "title": "File:Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - IV. Finale. Allegro molto (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_IV._Finale._Allegro_molto_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 121.35,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - IV. Finale. Allegro molto"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Malcolm Sargent, conductor - Symphony No. 5 in C minor, Op. 67 - 3rd Mov - Allegro - Conclusion - 4th Mov - Allegro - Beethoven - Decca-k1128-ar8995.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_3rd_Mov_-_Allegro_-_Conclusion_-_4th_Mov_-_Allegro_-_Beethoven_-_Decca-k1128-ar8995.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 92.98,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1128\n</p><p>Order number: AR 8995\n</p><p>Matrix/StamperID: AR 8995-2\n</p><p>1st release date: June 1945\n</p><p>1st recording date: 2 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedia.org/"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Malcolm Sargent, conductor - Symphony No. 5 in C minor, Op. 67 - 3rd Movement - Allegro - Beethoven - Decca-k1128-ar8994.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_3rd_Movement_-_Allegro_-_Beethoven_-_Decca-k1128-ar8994.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 114.81,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1128\n</p><p>Order number: AR 8994\n</p><p>Matrix/StamperID: AR 8994-2\n</p><p>1st release date: June 1945\n</p><p>1st recording date: 2 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedia.org/"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Malcolm Sargent, conductor - Symphony No. 5 in C minor, Op. 67 - 4th Movement - Allegro - Conclusion - Beethoven - Decca-k1129-ar8997.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_4th_Movement_-_Allegro_-_Conclusion_-_Beethoven_-_Decca-k1129-ar8997.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 89.95,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1129\n</p><p>Order number: AR 8997\n</p><p>Matrix/StamperID: AR 8997-2\n</p><p>1st release date: June 1945\n</p><p>1st recording date: 2 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedia.org/"
+  }
+ ],
+ "commons:schubert": [
+  {
+   "title": "File:Schubert Impromptu in E flat 01.wav",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Schubert_Impromptu_in_E_flat_01.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/wav",
+   "sizeMB": 3.0,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Schubert Impromptu in E flat"
+  }
+ ],
+ "commons:grieg": [
+  {
+   "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - I. Morning Mood (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 39.35,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "​Grieg - Peer Gynt Suite No. 1, Op. 46 - I. Morning Mood"
+  },
+  {
+   "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - II. The Death of Aase (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_II._The_Death_of_Aase_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 43.77,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Grieg - Peer Gynt Suite No. 1, Op. 46 - II. The Death of Aase"
+  },
+  {
+   "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - III. Anitra's Dance (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_III._Anitra%27s_Dance_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 38.02,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Grieg - Peer Gynt Suite No. 1, Op. 46 - III. Anitra's Dance"
+  },
+  {
+   "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - IV. In the Hall of the Mountain King (Musopen Symphony).flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_%28Musopen_Symphony%29.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/flac",
+   "sizeMB": 25.78,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Grieg - Peer Gynt Suite No. 1, Op. 46 - IV. In the Hall of the Mountain King"
+  },
+  {
+   "title": "File:PDP-CH - Berlin Philharmonic Orchestra - Leo Blech - Peer Gynt, Op. 23 - Peer Gynt Suite - Part 1- Morning - Edvard Grieg - Vocalion-a38009-485as.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PDP-CH_-_Berlin_Philharmonic_Orchestra_-_Leo_Blech_-_Peer_Gynt%2C_Op._23_-_Peer_Gynt_Suite_-_Part_1-_Morning_-_Edvard_Grieg_-_Vocalion-a38009-485as.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 117.59,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Title/Work: <a href=\"https://en.wikipedia.org/wiki/Peer_Gynt_(Grieg)\" class=\"extiw\" title=\"wikipedia:Peer Gynt (Grieg)\">Peer Gynt</a>, Op. 23\n</p><p>Content: Peer Gynt Suite - Part 1: Morning\n</p><p>Genre(s): Incidental music (Compositions for sym"
+  },
+  {
+   "title": "File:PDP-CH - Berlin Philharmonic Orchestra - Leo Blech - Peer Gynt, Op. 23 - Peer Gynt Suite - Part 2- Death of Ase - Edvard Grieg - Vocalion-a38009-486as.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/PDP-CH_-_Berlin_Philharmonic_Orchestra_-_Leo_Blech_-_Peer_Gynt%2C_Op._23_-_Peer_Gynt_Suite_-_Part_2-_Death_of_Ase_-_Edvard_Grieg_-_Vocalion-a38009-486as.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 129.64,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Title/Work: <a href=\"https://en.wikipedia.org/wiki/Peer_Gynt_(Grieg)\" class=\"extiw\" title=\"wikipedia:Peer Gynt (Grieg)\">Peer Gynt</a>, Op. 23\n</p><p>Content: Peer Gynt Suite - Part 2: Death of Ase\n</p><p>Genre(s): Incidental music (Compositions fo"
+  }
+ ],
+ "commons:tchaikovsky": [
+  {
+   "title": "File:Common-tone diminished seventh chord in Tchaikovsky's Nutcracker Suite, op. 71a, III, Valse des Fleurs.mid",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Common-tone_diminished_seventh_chord_in_Tchaikovsky%27s_Nutcracker_Suite%2C_op._71a%2C_III%2C_Valse_des_Fleurs.mid?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/midi",
+   "sizeMB": 0.0,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Common-tone diminished seventh chord (<span class=\"music-symbol\" style=\"font-family: Arial Unicode MS, Lucida Sans Unicode;\">♯</span>vi<span class=\"music-symbol\" style=\"font-family: Arial Unicode MS, Lucida Sans Unicode;\"><sup>o</sup></span><span sty"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Stanford Robinson, conductor - The Nutcracker Suite, Op. 71 - Arab Dance - Tchaikovsky - Decca-k1143-ar9058.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Stanford_Robinson%2C_conductor_-_The_Nutcracker_Suite%2C_Op._71_-_Arab_Dance_-_Tchaikovsky_-_Decca-k1143-ar9058.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 118.0,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1143\n</p><p>Order number: AR 9058\n</p><p>Matrix/StamperID: AR 9058-2\n</p><p>1st release date: September 1945\n</p><p>1st recording date: 18 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedi"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Stanford Robinson, conductor - The Nutcracker Suite, Op. 71 - Dance of the Sugar Plum Fairy - Russian Dance - Tchaikovsky - Decca-k1142-ar9057.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Stanford_Robinson%2C_conductor_-_The_Nutcracker_Suite%2C_Op._71_-_Dance_of_the_Sugar_Plum_Fairy_-_Russian_Dance_-_Tchaikovsky_-_Decca-k1142-ar9057.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 95.75,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1142\n</p><p>Order number: AR 9057\n</p><p>Matrix/StamperID: AR 9057-2\n</p><p>1st release date: September 1945\n</p><p>1st recording date: 18 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedi"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Stanford Robinson, conductor - The Nutcracker Suite, Op. 71 - Miniature Overture, March - Tchaikovsky - Decca-k1142-ar9056.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Stanford_Robinson%2C_conductor_-_The_Nutcracker_Suite%2C_Op._71_-_Miniature_Overture%2C_March_-_Tchaikovsky_-_Decca-k1142-ar9056.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 153.87,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1142\n</p><p>Order number: AR 9056\n</p><p>Matrix/StamperID: AR 9056-3\n</p><p>1st release date: September 1945\n</p><p>1st recording date: 18 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedi"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Stanford Robinson, conductor - The Nutcracker Suite, Op. 71 - Waltz of the Flowers - Tchaikovsky - Decca-k1144-ar9079.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Stanford_Robinson%2C_conductor_-_The_Nutcracker_Suite%2C_Op._71_-_Waltz_of_the_Flowers_-_Tchaikovsky_-_Decca-k1144-ar9079.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 101.94,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1144\n</p><p>Order number: AR 9079\n</p><p>Matrix/StamperID: AR 9079-2\n</p><p>1st release date: September 1945\n</p><p>1st recording date: 18 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedi"
+  },
+  {
+   "title": "File:PDP-CH - National Symphony Orchestra of London - Stanford Robinson, conductor - The Nutcracker Suite, Op. 71 - Waltz of the Flowers - Tchaikovsky - Decca-k1144-ar9080.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Stanford_Robinson%2C_conductor_-_The_Nutcracker_Suite%2C_Op._71_-_Waltz_of_the_Flowers_-_Tchaikovsky_-_Decca-k1144-ar9080.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 105.69,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>Label: Decca Records\n</p><p>Cat. no.: K 1144\n</p><p>Order number: AR 9080\n</p><p>Matrix/StamperID: AR 9080-2\n</p><p>1st release date: September 1945\n</p><p>1st recording date: 18 January 1945\n</p><p>Place of recording: <a href=\"https://en.wikipedi"
+  },
+  {
+   "title": "File:PDP-CH - Philadelphia Orchestra - Leopold Stokowski - Nutcracker Suite, Opus 71A - Tchaikovsky - Arab Dance - Hmv-db2541-2a87002.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Arab_Dance_-_Hmv-db2541-2a87002.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 144.12,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>1st release date: 1934\n</p><p>1st recording date: 1934\n</p><p>Place of recording: Camden Church Studio No. 2 (Trinity Church Studio), Camden, New Jersey (United States)\n</p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Pyotr_Ily"
+  },
+  {
+   "title": "File:PDP-CH - Philadelphia Orchestra - Leopold Stokowski - Nutcracker Suite, Opus 71A - Tchaikovsky - Chinese Dance - Dance of the Flutes - Hmv-db2541-2a87003.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Chinese_Dance_-_Dance_of_the_Flutes_-_Hmv-db2541-2a87003.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 115.29,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>1st release date: 1934\n</p><p>1st recording date: 1934\n</p><p>Place of recording: Camden Church Studio No. 2 (Trinity Church Studio), Camden, New Jersey (United States)\n</p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Pyotr_Ily"
+  },
+  {
+   "title": "File:PDP-CH - Philadelphia Orchestra - Leopold Stokowski - Nutcracker Suite, Opus 71A - Tchaikovsky - Waltz of the Flowers, Part 1 - Hmv-db2542-2a87004.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Waltz_of_the_Flowers%2C_Part_1_-_Hmv-db2542-2a87004.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 130.53,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>1st release date: 1934\n</p><p>1st recording date: 1934\n</p><p>Place of recording: Camden Church Studio No. 2 (Trinity Church Studio), Camden, New Jersey (United States)\n</p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Pyotr_Ily"
+  },
+  {
+   "title": "File:PDP-CH - Philadelphia Orchestra - Leopold Stokowski - Nutcracker Suite, Opus 71A - Tchaikovsky - Waltz of the Flowers, Part 2 - Hmv-db2542-2a87005.flac",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Waltz_of_the_Flowers%2C_Part_2_-_Hmv-db2542-2a87005.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/x-flac",
+   "sizeMB": 96.33,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<p>1st release date: 1934\n</p><p>1st recording date: 1934\n</p><p>Place of recording: Camden Church Studio No. 2 (Trinity Church Studio), Camden, New Jersey (United States)\n</p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Pyotr_Ily"
+  },
+  {
+   "title": "File:Tchaikovsky - Nutcracker Suite - Russian Dance - Philip Milman - Lud and Schlatts Musical Emporium.wav",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Tchaikovsky_-_Nutcracker_Suite_-_Russian_Dance_-_Philip_Milman_-_Lud_and_Schlatts_Musical_Emporium.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "audio/wav",
+   "sizeMB": 21.39,
+   "license": "CC BY 3.0",
+   "usage": "Creative Commons Attribution 3.0",
+   "desc": "<a href=\"https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky\" class=\"extiw\" title=\"w:Pyotr Ilyich Tchaikovsky\">Pyotr Ilyich Tchaikovsky</a> - <a href=\"https://en.wikipedia.org/wiki/The_Nutcracker\" class=\"extiw\" title=\"w:The Nutcracker\">The Nutcrac"
+  }
+ ],
+ "commons:beethoven-moonlight-score": [],
+ "commons:chopin-nocturne-score": [
+  {
+   "title": "File:Lady Bloomfield Piano Album.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Lady_Bloomfield_Piano_Album.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.33,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "<a href=\"https://en.wikipedia.org/wiki/Sara_Blomfield\" class=\"extiw\" title=\"en:Sara Blomfield\">Lady Bloomfield</a>'s Piano Album belonged to <a href=\"https://en.wikipedia.org/wiki/Georgiana_Bloomfield,_Baroness_Bloomfield\" class=\"extiw\" title=\"en:Geo"
+  },
+  {
+   "title": "File:Nocturne in B flat minor, Op. 9, No. 1 - first bars.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nocturne_in_B_flat_minor%2C_Op._9%2C_No._1_-_first_bars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.05,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Nocturne in B flat minor, Op. 9, No. 1 - first bars"
+  },
+  {
+   "title": "File:Nocturne in B flat minor, Op. 9, No. 1 - lats bars.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nocturne_in_B_flat_minor%2C_Op._9%2C_No._1_-_lats_bars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.01,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Nocturne in B flat minor, Op. 9, No. 1 - last bars (coda)"
+  },
+  {
+   "title": "File:Nocturne in E flat major, Op. 9, No. 2 - first bars.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nocturne_in_E_flat_major%2C_Op._9%2C_No._2_-_first_bars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.03,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Nocturne in E flat major, Op. 9, No. 2 - first bars"
+  },
+  {
+   "title": "File:Nocturne in E flat major, Op. 9, No. 2 - last bars.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Nocturne_in_E_flat_major%2C_Op._9%2C_No._2_-_last_bars.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.02,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Nocturne in E flat major, Op. 9, No. 2 - last bars (coda)"
+  },
+  {
+   "title": "File:Op.27 Nocturne.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Op.27_Nocturne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.05,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": ""
+  }
+ ],
+ "commons:gongche": [
+  {
+   "title": "File:1897 Houkai Bushi Music Sheet published in Tokyo 工尺譜 法界節 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/1897_Houkai_Bushi_Music_Sheet_published_in_Tokyo_%E5%B7%A5%E5%B0%BA%E8%AD%9C_%E6%B3%95%E7%95%8C%E7%AF%80_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 2.46,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "鈴木萬次郎『月琴雑曲独稽古』1897年刊(折り本)に載せる「ほうかい節」(法界節)の工尺譜と歌詞。\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">f"
+  },
+  {
+   "title": "File:1897 Kompira-Fimefune and Nenen-Korori Music Sheet published in Tokyo 工尺譜 金比羅船々.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1897_Kompira-Fimefune_and_Nenen-Korori_Music_Sheet_published_in_Tokyo_%E5%B7%A5%E5%B0%BA%E8%AD%9C_%E9%87%91%E6%AF%94%E7%BE%85%E8%88%B9%E3%80%85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 3.45,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "鈴木萬次郎『月琴雑曲独稽古』1897年刊(折り本)に載せる「金比羅船々」と「ねんねんころりよ」工尺譜と歌詞。\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_r"
+  },
+  {
+   "title": "File:Cup of Solid gold's Notes.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cup_of_Solid_gold%27s_Notes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.06,
+   "license": "CC BY-SA 4.0",
+   "usage": "Creative Commons Attribution-Share Alike 4.0",
+   "desc": "Not everyone can understand Gongche notation, but he can understand European."
+  },
+  {
+   "title": "File:Gongche notation in the Vietnamese book, Cổ cầm tân cựu tập 古琴新舊集.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gongche_notation_in_the_Vietnamese_book%2C_C%E1%BB%95_c%E1%BA%A7m_t%C3%A2n_c%E1%BB%B1u_t%E1%BA%ADp_%E5%8F%A4%E7%90%B4%E6%96%B0%E8%88%8A%E9%9B%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.48,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Gongche notation in the Vietnamese book, Cổ cầm tân cựu tập 古琴新舊集"
+  },
+  {
+   "title": "File:Kam Hok Yap Mun-Yeung Kwan Sam Tip.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kam_Hok_Yap_Mun-Yeung_Kwan_Sam_Tip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.28,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Two scanned pages from second volumn 陽關三疊(Yeung Kwan Sam Tip, Three Refrains on the Yang Pass Theme) in the score book 琴學入門(Kam Hok Yap Mun) written by 張鶴(Cheung Hok) in 1864."
+  },
+  {
+   "title": "File:Kungchepo old mcdonald.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kungchepo_old_mcdonald.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/png",
+   "sizeMB": 0.0,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": ""
+  },
+  {
+   "title": "File:Msgkrk.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Msgkrk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.06,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "This photo is a page of a book entitled \"Gekkin Gakufu\", which was published in 1877 in Japan."
+  },
+  {
+   "title": "File:Sheet music and Gongche notation of Gong Jinou.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sheet_music_and_Gongche_notation_of_Gong_Jinou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.45,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "Sheet music and Gongche notation of Gong Jinou"
+  },
+  {
+   "title": "File:『明笛清笛独稽古』1893年 工尺譜 明清楽 月琴.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/%E3%80%8E%E6%98%8E%E7%AC%9B%E6%B8%85%E7%AC%9B%E7%8B%AC%E7%A8%BD%E5%8F%A4%E3%80%8F1893%E5%B9%B4_%E5%B7%A5%E5%B0%BA%E8%AD%9C_%E6%98%8E%E6%B8%85%E6%A5%BD_%E6%9C%88%E7%90%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 5.92,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "『明笛清笛独稽古』明治26年7月8日印刷　明治26年7月13日発行\n<p>著者　玉笛道人\n発行者　西村寅二郎　東京市日本橋区通4丁目7番地\n印刷者　堀井安太郎　　同　京橋区卅間堀2丁目1番地\n発行所　東雲堂　　　　同　日本橋区通4丁目7番地\n印刷所　明教印刷所　　同　京橋区卅間堀2丁目1番地\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.isc.meiji.ac.jp/~katotoru/singaku-14-90s.html"
+  },
+  {
+   "title": "File:九連環 明清楽 歌 1894 KYURENKAN or JIULIANHUAN a song of MINSHINGAKU.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%E4%B9%9D%E9%80%A3%E7%92%B0_%E6%98%8E%E6%B8%85%E6%A5%BD_%E6%AD%8C_1894_KYURENKAN_or_JIULIANHUAN_a_song_of_MINSHINGAKU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 4.74,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "A song of MINSHINGAKU(明清楽). From the book written by MUKADE Noboru, entitled MINSHINGAKU NO SHIORI, published by Hakubunkan, Tokyo, 1894.\n<p>National Diet Library Japan declared this book (info:ndljp/pid/856135) expiration of the protection period. \n"
+  },
+  {
+   "title": "File:和漢洋十二音律対照表 1909年 音名・階名.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%E5%92%8C%E6%BC%A2%E6%B4%8B%E5%8D%81%E4%BA%8C%E9%9F%B3%E5%BE%8B%E5%AF%BE%E7%85%A7%E8%A1%A8_1909%E5%B9%B4_%E9%9F%B3%E5%90%8D%E3%83%BB%E9%9A%8E%E5%90%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 0.08,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "大塚寅蔵著『新案日本数字符　明清楽独まなび』京都：十字屋楽器部発行、明治42年11月発行より。\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">fal"
+  },
+  {
+   "title": "File:工尺譜の読み仮名 『明清楽之栞』1894.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/%E5%B7%A5%E5%B0%BA%E8%AD%9C%E3%81%AE%E8%AA%AD%E3%81%BF%E4%BB%AE%E5%90%8D_%E3%80%8E%E6%98%8E%E6%B8%85%E6%A5%BD%E4%B9%8B%E6%A0%9E%E3%80%8F1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "mime": "image/jpeg",
+   "sizeMB": 1.83,
+   "license": "Public domain",
+   "usage": "Public domain",
+   "desc": "出典　百足登・著『明清楽之栞』(みんしんがくのしおり) 東京・博文館、明治27年(1894年)3月\n<p>(参考 国立国会図書館 永続的識別子　info:ndljp/pid/856135　保護期間満了)\n</p>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long"
+  }
+ ],
+ "commons:chinese-old-score": [],
+ "commons:jingju-78": [],
+ "commons:chinese-78": [],
+ "commons:chinese-orchestra": [],
+ "ia:musopen": [],
+ "ia:georgeblood-chinese": [],
+ "ia:great78-chinese": [],
+ "ia:peking": []
+}
