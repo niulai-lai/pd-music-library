@@ -1,0 +1,1187 @@
+/* 馆藏数据（file:// 本地打开时的回退数据；与 music.json 内容一致，由工具重新生成） */
+window.PDML_DATA = {
+ "schema": "pdml.v1",
+ "generated": "2026-09-11",
+ "disclaimer": "本站所有内容均来自公开公有领域资源，仅供学习、研究、创作使用。作品版权状态以来源标注为准，商用前请自行核实。如您认为内容侵犯版权，请联系立即移除。",
+ "albums": [
+  {
+   "id": "al-beethoven",
+   "title": "贝多芬：斗争与凯旋",
+   "desc": "Musopen 公益乐团新录音与 1945 年战时历史录音并置，四个乐章横跨贝多芬的戏剧性与英雄性。",
+   "trackIds": [
+    "c01",
+    "c02",
+    "c03",
+    "c18"
+   ]
+  },
+  {
+   "id": "al-oldchina",
+   "title": "老唱片里的中国 · 1901—1935",
+   "desc": "从上海剧场的最早录音到 HMV 唱片上的「中国舞曲」，再到 1935 年首版国歌档案，一段唱片工业的黎明史。",
+   "trackIds": [
+    "x01",
+    "x02",
+    "m01",
+    "c17",
+    "r01"
+   ]
+  },
+  {
+   "id": "al-night",
+   "title": "夜曲与漫步 · 书桌旁的小品",
+   "desc": "雨滴、夜曲与裸体歌舞——为深夜书房准备的低音量歌单。",
+   "trackIds": [
+    "c09",
+    "c10",
+    "c11",
+    "c19"
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "c01",
+   "title": "艾格蒙特序曲",
+   "titleEn": "Egmont Overture, Op. 84",
+   "composer": "贝多芬",
+   "composerEn": "Ludwig van Beethoven",
+   "composerLife": "1770-1827",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "古典主义—浪漫主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "序曲",
+   "scenes": [
+    "documentary"
+   ],
+   "tags": [
+    "恢弘",
+    "厚重",
+    "戏剧性"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beethoven_-_Egmont_Overture%2C_Op._84_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 94.78,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Egmont_Overture%2C_Op._84_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "《艾格蒙特》是贝多芬为歌德同名悲剧创作的配乐，序曲描绘尼德兰人民反抗西班牙统治的斗争：以沉重的萨拉班德节奏象征压迫，随后音乐层层推进，终章以胜利的辉煌收束。本版由公益项目 Musopen 组织的乐团于 2012 年录制并释入公有领域，是当代可自由使用的经典版本。",
+   "featured": true,
+   "playSeeds": 8,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c02",
+   "title": "科里奥兰序曲",
+   "titleEn": "Coriolan Overture, Op. 62",
+   "composer": "贝多芬",
+   "composerEn": "Ludwig van Beethoven",
+   "composerLife": "1770-1827",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "古典主义—浪漫主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "序曲",
+   "scenes": [
+    "documentary"
+   ],
+   "tags": [
+    "恢弘",
+    "厚重",
+    "悲剧性"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 88.4,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "1807 年贝多芬为科林话剧《科里奥兰》写下这首音乐会序曲：开头三个重击和弦如主角意志的砍伐，弦乐的挣扎动机与宁静的女性化主题反复角力，结尾在寂静中崩溃瓦解，是贝多芬最具悲剧张力的短篇管弦乐之一。本录音为 Musopen 2012 年公有领域释出版。",
+   "featured": false,
+   "playSeeds": 4,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c03",
+   "title": "降E大调第三交响曲「英雄」· 第一乐章",
+   "titleEn": "Symphony No. 3 \"Eroica\", Op. 55 – I. Allegro con brio",
+   "composer": "贝多芬",
+   "composerEn": "Ludwig van Beethoven",
+   "composerLife": "1770-1827",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "古典主义—浪漫主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "交响曲",
+   "scenes": [
+    "documentary"
+   ],
+   "tags": [
+    "恢弘",
+    "厚重",
+    "史诗"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_I._Allegro_con_brio_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 159.12,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_I._Allegro_con_brio_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "《英雄》交响曲原本题献拿破仑，贝多芬闻其称帝后愤而撕去标题页。第一乐章以两个利落的降E大调和弦劈开帷幕，英雄主题在大提琴上冉冉升起，随后展开交响史上最壮阔的斗争叙事。此乐章确立了浪漫主义交响曲的规模感，是理解贝多芬中期风格的钥匙。",
+   "featured": true,
+   "playSeeds": 12,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c04",
+   "title": "费加罗的婚礼· 序曲",
+   "titleEn": "Le nozze di Figaro, K. 492 – Overture",
+   "composer": "莫扎特",
+   "composerEn": "Wolfgang Amadeus Mozart",
+   "composerLife": "1756-1791",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "古典主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "序曲",
+   "scenes": [
+    "video"
+   ],
+   "tags": [
+    "明快",
+    "优雅",
+    "喜剧"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 44.1,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "1786 年《费加罗的婚礼》首演于维也纳，序曲以疾风般的弦乐窃窃私语开场，仿佛仆人费加罗与苏珊娜筹划婚礼时的忙碌与机敏；渐强推向全奏后一气呵成，四分余钟内写尽喜剧的灵巧。这是音乐会上最常上演的歌剧序曲之一。",
+   "featured": true,
+   "playSeeds": 10,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c05",
+   "title": "g小调第四十交响曲· 第二乐章",
+   "titleEn": "Symphony No. 40 in G minor, K. 550 – II. Andante",
+   "composer": "莫扎特",
+   "composerEn": "Wolfgang Amadeus Mozart",
+   "composerLife": "1756-1791",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "古典主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "交响曲",
+   "scenes": [
+    "documentary",
+    "study"
+   ],
+   "tags": [
+    "厚重",
+    "沉思"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_II._Andante_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 75.01,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_II._Andante_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "1788 年夏天，莫扎特在维也纳贫困交加中连写三部交响曲，g 小调第四十是其中最著名的一部。第二乐章降E大调行板以内声部切分节奏织成暗流，中提琴的低语与大提琴的步伐支撑起上声部温润而克制的歌唱，忧而不伤，是古典主义内敛抒情的典范。",
+   "featured": false,
+   "playSeeds": 6,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c06",
+   "title": "晨曲（培尔·金特第一组曲）",
+   "titleEn": "Peer Gynt Suite No. 1, Op. 46 – I. Morning Mood",
+   "composer": "格里格",
+   "composerEn": "Edvard Grieg",
+   "composerLife": "1843-1907",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "浪漫主义·民族乐派",
+   "category": "古典音乐",
+   "instrument": "长笛",
+   "genre": "管弦乐",
+   "scenes": [
+    "video",
+    "live"
+   ],
+   "tags": [
+    "明快",
+    "柔和",
+    "清晨"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 39.35,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "格里格为易卜生诗剧《培尔·金特》所作配乐中最广为人知的一段：长笛与小双簧管在宁静的和声上轮流吹出五声音阶般的旋律，描绘摩洛哥沙漠日出时分万物的苏醒。旋律与中国五声调式神似，常被影视与铃声引用，原作 1875 年问世。",
+   "featured": true,
+   "playSeeds": 14,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c07",
+   "title": "在山魔王的宫殿里",
+   "titleEn": "Peer Gynt Suite No. 1, Op. 46 – IV. In the Hall of the Mountain King",
+   "composer": "格里格",
+   "composerEn": "Edvard Grieg",
+   "composerLife": "1843-1907",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "浪漫主义·民族乐派",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "管弦乐",
+   "scenes": [
+    "video"
+   ],
+   "tags": [
+    "明快",
+    "神秘",
+    "渐强"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 25.78,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "培尔·金特误入山魔王宫殿，群魔围绕加以嘲弄。格里格用大提琴与低音提琴奏出阴森的主题，速度与音量逐层推进，从耳语般的拨弦膨胀为全乐团的疯狂咆哮，是「渐强」写法的教科书。这一段也是流行文化中引用率最高的古典片段之一。",
+   "featured": false,
+   "playSeeds": 9,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c08",
+   "title": "沃尔塔瓦河（我的祖国·第二首）",
+   "titleEn": "Má Vlast – Vltava (The Moldau)",
+   "composer": "斯美塔那",
+   "composerEn": "Bedřich Smetana",
+   "composerLife": "1824-1884",
+   "performer": "Musopen Symphony",
+   "performerDetail": "Musopen Symphony（Musopen 公益录制计划，2012）",
+   "recordedYear": "2012",
+   "era": "浪漫主义·民族乐派",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "交响诗",
+   "scenes": [
+    "documentary",
+    "nostalgia"
+   ],
+   "tags": [
+    "悠远",
+    "恢弘",
+    "江河"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Smetana_-_M%C3%A1_Vlast_-_Vltava_%28Musopen_Symphony%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 数字乐团版",
+    "sizeMB": 143.71,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Smetana_-_M%C3%A1_Vlast_-_Vltava_%28Musopen_Symphony%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Musopen 公益乐团 2012 年录制，由录制方声明释放入公有领域；Wikimedia Commons 文件页载明许可"
+   },
+   "background": "1874 年斯美塔那完全失聪，仍写下交响诗套曲《我的祖国》。第二首《沃尔塔瓦河》以两支长笛的涓流起始，汇成小提琴歌唱的主旋律，一路流过猎号、乡村婚宴、月光下的水仙女舞蹈与激流险滩，最终壮阔地流向布拉格。它是捷克民族乐派的丰碑。",
+   "featured": true,
+   "playSeeds": 13,
+   "addedAt": "2026-09-01"
+  },
+  {
+   "id": "c09",
+   "title": "降D大调前奏曲「雨滴」",
+   "titleEn": "Prelude Op. 28 No. 15 \"Raindrop\"",
+   "composer": "肖邦",
+   "composerEn": "Frédéric Chopin",
+   "composerLife": "1810-1849",
+   "performer": "佚名（CC0 录音）",
+   "performerDetail": "Wikimedia Commons 上以 CC0 释出的录音",
+   "recordedYear": "现代录音",
+   "era": "浪漫主义",
+   "category": "古典音乐",
+   "instrument": "钢琴",
+   "genre": "前奏曲",
+   "scenes": [
+    "audiobook",
+    "study"
+   ],
+   "tags": [
+    "安静",
+    "舒缓",
+    "雨"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Prelude_Op._28_no._15.mp3",
+    "format": "MP3",
+    "quality": "128kbps",
+    "sizeMB": 5.67,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Prelude_Op._28_no._15.mp3",
+    "license": "CC0",
+    "licenseNote": "录音以 CC0（公有领域贡献）释出，可自由商用；肖邦逝世于 1849 年，作品早已进入公有领域"
+   },
+   "background": "1838 年肖邦与乔治·桑在马略卡岛养病，据说窗外雨声连绵，他遂以贯穿全曲的降A持续音写成这首前奏曲，被后人冠名「雨滴」。中段转升c小调后阴云密布，如远处雷声逼近；主题回归时雨仍未停，唯余琴声。这是 Op.28 二十四首前奏曲中最长的一首。",
+   "featured": true,
+   "playSeeds": 15,
+   "addedAt": "2026-09-02"
+  },
+  {
+   "id": "c10",
+   "title": "升c小调夜曲（遗作）",
+   "titleEn": "Nocturne in C-sharp minor, B. 49 (Lento con gran espressione)",
+   "composer": "肖邦",
+   "composerEn": "Frédéric Chopin",
+   "composerLife": "1810-1849",
+   "performer": "Frank Levy",
+   "performerDetail": "Wikimedia Commons 公有领域录音",
+   "recordedYear": "约2014",
+   "era": "浪漫主义",
+   "category": "古典音乐",
+   "instrument": "钢琴",
+   "genre": "夜曲",
+   "scenes": [
+    "audiobook",
+    "study"
+   ],
+   "tags": [
+    "安静",
+    "舒缓",
+    "夜"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chopin_-_Nocturne_No._20_in_C-sharp_minor%2C_B._49_%28Frank_Levy%29.flac",
+    "format": "FLAC",
+    "quality": "无损",
+    "sizeMB": 51.84,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne_No._20_in_C-sharp_minor%2C_B._49_%28Frank_Levy%29.flac",
+    "license": "Public domain",
+    "licenseNote": "Commons 文件页标注 Public domain；肖邦作品本身自 19 世纪末已进入公有领域"
+   },
+   "background": "这首升c小调夜曲作于 1830 年前后，肖邦生前未出版，死后以「遗作」流传。左手的三连音波涛托着右手如歌的旋律，中段转入圣咏般的和弦，据说是他练习曲风格最「歌唱」的一面。二战期间波兰钢琴家在电台反复播放它以鼓舞同胞，令其广为传诵。",
+   "featured": false,
+   "playSeeds": 11,
+   "addedAt": "2026-09-02"
+  },
+  {
+   "id": "c11",
+   "title": "裸体歌舞第一号（吉他版）",
+   "titleEn": "Gymnopédie No. 1 (guitar arrangement)",
+   "composer": "萨蒂",
+   "composerEn": "Erik Satie",
+   "composerLife": "1866-1925",
+   "performer": "Michael Laucke（吉他）",
+   "performerDetail": "演奏家本人上传至 Commons 并声明公有领域",
+   "recordedYear": "2001",
+   "era": "近代·印象派前后",
+   "category": "古典音乐",
+   "instrument": "吉他",
+   "genre": "钢琴曲",
+   "scenes": [
+    "study",
+    "audiobook",
+    "live"
+   ],
+   "tags": [
+    "安静",
+    "柔和",
+    "冥想"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Satie_Gymnopedie_No_1_performed_by_Michael_Laucke.flac",
+    "format": "FLAC",
+    "quality": "无损",
+    "sizeMB": 10.23,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Satie_Gymnopedie_No_1_performed_by_Michael_Laucke.flac",
+    "license": "Public domain",
+    "licenseNote": "吉他改编与录音由演奏者 Michael Laucke 于 2001 年录制并释入公有领域（Commons 文件页标注 PD）"
+   },
+   "background": "1888 年萨蒂写下三首《裸体歌舞》，缓板、7/4 拍、漂浮不定的和声，一反浪漫派的浓烈，成为「气氛音乐」的先声。第一首后经德彪西配器而广为人知。此处是加拿大吉他演奏家 Michael Laucke 的改编：他把钢琴织体完整移植到六根弦上，别具清冷的吟咏感。",
+   "featured": true,
+   "playSeeds": 12,
+   "addedAt": "2026-09-02"
+  },
+  {
+   "id": "c12",
+   "title": "月光（铜管版）",
+   "titleEn": "Clair de Lune (brass arrangement)",
+   "composer": "德彪西",
+   "composerEn": "Claude Debussy",
+   "composerLife": "1862-1918",
+   "performer": "美国空军飞行乐团「莱特铜管组」（Wright Brass）",
+   "performerDetail": "美军军乐团官方录音，作为美国政府作品进入公有领域",
+   "recordedYear": "1993",
+   "era": "印象派",
+   "category": "古典音乐",
+   "instrument": "铜管",
+   "genre": "钢琴曲",
+   "scenes": [
+    "audiobook",
+    "live"
+   ],
+   "tags": [
+    "柔和",
+    "安静",
+    "月夜"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Clair_de_Lune_-_Wright_Brass_-_United_States_Air_Force_Band_of_Flight.mp3",
+    "format": "MP3",
+    "quality": "高品质",
+    "sizeMB": 3.95,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Clair_de_Lune_-_Wright_Brass_-_United_States_Air_Force_Band_of_Flight.mp3",
+    "license": "Public domain",
+    "licenseNote": "1993 年专辑《Blue Skies》曲目；美国政府作品，不受版权保护（17 U.S.C. §105），Commons 标注 Public domain"
+   },
+   "background": "《月光》出自德彪西《贝加摩组曲》（1890），灵感源自魏尔伦同名诗：水面上碎银般的和声、朦胧的调性游移，是印象派音乐的入门曲。此版由美国空军飞行乐团的铜管组改编演奏——美国政府雇员作品天然属于公有领域，音色温暖浑厚，别有意趣。",
+   "featured": true,
+   "playSeeds": 16,
+   "addedAt": "2026-09-02"
+  },
+  {
+   "id": "c13",
+   "title": "D大调卡农",
+   "titleEn": "Canon in D Major (P 37)",
+   "composer": "帕赫贝尔",
+   "composerEn": "Johann Pachelbel",
+   "composerLife": "1653-1706",
+   "performer": "美国空军乐团「漫步弦乐组」（Strolling Strings）",
+   "performerDetail": "编曲：Frank Hudson；美军官方录音",
+   "recordedYear": "2004",
+   "era": "巴洛克",
+   "category": "古典音乐",
+   "instrument": "弦乐",
+   "genre": "卡农",
+   "scenes": [
+    "study",
+    "live"
+   ],
+   "tags": [
+    "平稳",
+    "柔和",
+    "循环"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3",
+    "format": "MP3",
+    "quality": "高品质",
+    "sizeMB": 10.84,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3",
+    "license": "Public domain",
+    "licenseNote": "2004 年专辑《The Strolling Strings 50th Anniversary》曲目；美国政府作品，Commons 标注 Public domain"
+   },
+   "background": "约 1680 年帕赫贝尔在纽伦堡写下这首为三把小提琴与通奏低音而作的卡农，两个小提琴声部相隔两小节追逐同一个下行和声循环，循环往复而繁花渐开。原谱一度散佚，20 世纪被重新发现后成为婚礼与流行乐最常引用的巴洛克名曲。",
+   "featured": true,
+   "playSeeds": 18,
+   "addedAt": "2026-09-02"
+  },
+  {
+   "id": "c14",
+   "title": "G弦上的咏叹调（梅纽因，1948）",
+   "titleEn": "Orchestral Suite No. 3, BWV 1068 – Air (Yehudi Menuhin, 1948)",
+   "composer": "巴赫",
+   "composerEn": "Johann Sebastian Bach",
+   "composerLife": "1685-1750",
+   "performer": "耶胡迪·梅纽因（指挥）",
+   "performerDetail": "1948 年录音，来源页载明版权已过期",
+   "recordedYear": "1948",
+   "era": "历史录音 · 巴洛克",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "咏叹调",
+   "scenes": [
+    "audiobook",
+    "nostalgia"
+   ],
+   "tags": [
+    "安静",
+    "悠远",
+    "历史录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bach_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_%28Menuhin%29.flac",
+    "format": "FLAC",
+    "quality": "无损 · 历史录音转录",
+    "sizeMB": 10.72,
+    "cors": true
+   },
+   "versions": [
+    "c15",
+    "c16"
+   ],
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_%28Menuhin%29.flac",
+    "license": "Public domain",
+    "licenseNote": "1948 年录音，权利已届满；Commons 文件页标注 Public domain"
+   },
+   "background": "「G弦上的咏叹调」实为巴赫第三管弦乐组曲（约1730）第二乐章 Air，19 世纪小提琴家威廉密改编为只在小提琴G弦上演奏而得名。本版为小提琴大师梅纽因 1948 年指挥的录音，弓弦从容、呼吸绵长，是战后录音黄金时代的历史见证，本馆另藏 1936 年布什与 1940 年代梅拉克里诺两个版本可对比试听。",
+   "featured": true,
+   "playSeeds": 14,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "c15",
+   "title": "G弦上的咏叹调（阿道夫·布什，1936）",
+   "titleEn": "Air – Adolf Busch Chamber Players (HMV db3019, recorded 1936)",
+   "composer": "巴赫",
+   "composerEn": "Johann Sebastian Bach",
+   "composerLife": "1685-1750",
+   "performer": "阿道夫·布什室内乐团（Adolf Busch, 指挥/小提琴）",
+   "performerDetail": "1936年10月27日录制，1937年HMV发行",
+   "recordedYear": "1936",
+   "era": "历史录音 · 巴洛克",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "咏叹调",
+   "scenes": [
+    "nostalgia"
+   ],
+   "tags": [
+    "怀旧",
+    "历史录音",
+    "78转"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/PDP-CH_-_Adolf_Busch_Chamber_Players_-_Adolf_Busch_-_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_-_Bach_-_Hmv-db3019-2ea3895.flac",
+    "format": "FLAC",
+    "quality": "无损 · 78转唱片转录",
+    "sizeMB": 176.17,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（PDP-CH 历史唱片数字化）",
+    "page": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_Adolf_Busch_Chamber_Players_-_Adolf_Busch_-_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_-_Bach_-_Hmv-db3019-2ea3895.flac",
+    "license": "Public domain",
+    "licenseNote": "瑞士公共领域项目（Public Domain Project）历史唱片数字化，Wikimedia Commons 转存，文件页载明首次发行/录制信息"
+   },
+   "background": "阿道夫·布什是 20 世纪上半叶最受敬重的德奥小提琴家之一，因抵制纳粹而离开德国。这份 1936 年 10 月录制的 HMV 唱片（db3019）以室内乐团的紧凑编制演奏巴赫 Air，音色朴素直率，保留着战前德奥学派的发音传统，与梅纽因版并置可闻两个时代的呼吸。",
+   "rare": true,
+   "featured": false,
+   "playSeeds": 5,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "c16",
+   "title": "G弦上的咏叹调（梅拉克里诺管弦乐团，HMV）",
+   "titleEn": "Air on the G String – The Melachrino Orchestra (HMV c3775)",
+   "composer": "巴赫",
+   "composerEn": "Johann Sebastian Bach",
+   "composerLife": "1685-1750",
+   "performer": "梅拉克里诺管弦乐团（George Melachrino, 指挥）",
+   "performerDetail": "HMV 唱片 c3775，约 1940 年代发行",
+   "recordedYear": "约1940年代",
+   "era": "历史录音 · 巴洛克",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "咏叹调",
+   "scenes": [
+    "nostalgia"
+   ],
+   "tags": [
+    "怀旧",
+    "历史录音",
+    "78转"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/PDP-CH_-_The_Melachrino_Orchestra_-_George_Melachrino_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_on_the_G_String_-_Johann_Sebastian_Bach_-_Hmv-c3775-2ea12475.flac",
+    "format": "FLAC",
+    "quality": "无损 · 78转唱片转录",
+    "sizeMB": 142.93,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（PDP-CH 历史唱片数字化）",
+    "page": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_The_Melachrino_Orchestra_-_George_Melachrino_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_on_the_G_String_-_Johann_Sebastian_Bach_-_Hmv-c3775-2ea12475.flac",
+    "license": "Public domain",
+    "licenseNote": "瑞士公共领域项目（Public Domain Project）历史唱片数字化，Wikimedia Commons 转存，文件页载明首次发行/录制信息"
+   },
+   "background": "乔治·梅拉克里诺的乐团以「美式甜润的弦乐」著称，是 1940—50 年代英国轻音乐与电影配乐的代表。这一版 Air on the G String 弦乐层次丰厚、速度徐缓，带有早期立体声实验时期录音室美学的印记，与 1936 年布什版、1948 年梅纽因版构成三代录音的有趣对照。",
+   "rare": true,
+   "featured": false,
+   "playSeeds": 4,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "c17",
+   "title": "胡桃夹子· 中国舞曲（斯托科夫斯基，1934）",
+   "titleEn": "Nutcracker Suite – Chinese Dance / Dance of the Flutes (Stokowski, 1934)",
+   "composer": "柴可夫斯基",
+   "composerEn": "Pyotr Ilyich Tchaikovsky",
+   "composerLife": "1840-1893",
+   "performer": "费城交响乐团（Leopold Stokowski, 指挥）",
+   "performerDetail": "1934 年于新泽西卡姆登教堂录音室录制，HMV db2541 发行",
+   "recordedYear": "1934",
+   "era": "历史录音 · 浪漫主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "组曲",
+   "scenes": [
+    "video",
+    "nostalgia"
+   ],
+   "tags": [
+    "明快",
+    "怀旧",
+    "历史录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Chinese_Dance_-_Dance_of_the_Flutes_-_Hmv-db2541-2a87003.flac",
+    "format": "FLAC",
+    "quality": "无损 · 78转唱片转录",
+    "sizeMB": 115.29,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（PDP-CH 历史唱片数字化）",
+    "page": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Chinese_Dance_-_Dance_of_the_Flutes_-_Hmv-db2541-2a87003.flac",
+    "license": "Public domain",
+    "licenseNote": "瑞士公共领域项目（Public Domain Project）历史唱片数字化，Wikimedia Commons 转存，文件页载明首次发行/录制信息"
+   },
+   "background": "《胡桃夹子》第二幕的「中国舞曲」是柴可夫斯基对想象中东方的速写：短笛与长笛颤音跳跃，低音弦乐衬底，妙在轻盈滑稽。这是斯托科夫斯基执掌费城交响的黄金年代录音——正是他把「费城之声」的丰厚弦乐带进了早期电声录音时代。",
+   "featured": false,
+   "playSeeds": 7,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "c18",
+   "title": "c小调第五交响曲「命运」· 第三乐章（萨金特，1945）",
+   "titleEn": "Symphony No. 5, Op. 67 – III. Allegro (Malcolm Sargent, 1945)",
+   "composer": "贝多芬",
+   "composerEn": "Ludwig van Beethoven",
+   "composerLife": "1770-1827",
+   "performer": "伦敦国家交响乐团（Malcolm Sargent, 指挥）",
+   "performerDetail": "1945年1月2日录制于伦敦国王大道音乐厅，Decca K1128 发行",
+   "recordedYear": "1945",
+   "era": "历史录音 · 古典主义",
+   "category": "古典音乐",
+   "instrument": "管弦乐队",
+   "genre": "交响曲",
+   "scenes": [
+    "documentary"
+   ],
+   "tags": [
+    "厚重",
+    "恢弘",
+    "历史录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_3rd_Movement_-_Allegro_-_Beethoven_-_Decca-k1128-ar8994.flac",
+    "format": "FLAC",
+    "quality": "无损 · 78转唱片转录",
+    "sizeMB": 114.81,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（PDP-CH 历史唱片数字化）",
+    "page": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_3rd_Movement_-_Allegro_-_Beethoven_-_Decca-k1128-ar8994.flac",
+    "license": "Public domain",
+    "licenseNote": "瑞士公共领域项目（Public Domain Project）历史唱片数字化，Wikimedia Commons 转存，文件页载明首次发行/录制信息"
+   },
+   "background": "第三乐章谐谑曲以大提琴低音提琴齐奏的疑问句开场，圆号的「命运」动机悄然折返。这份录音录于 1945 年 1 月 2 日的伦敦——欧战尚在最后阶段，国王大道音乐厅的穹顶下，萨金特与乐团留下的是战时英国对「通过黑暗走向光明」的切身注解。",
+   "featured": false,
+   "playSeeds": 6,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "c19",
+   "title": "A大调第十一钢琴奏鸣曲 K.331· 主题（克罗伊策）",
+   "titleEn": "Piano Sonata No. 11, K. 331 – Theme (Leonid Kreutzer, Gramophone 95178)",
+   "composer": "莫扎特",
+   "composerEn": "Wolfgang Amadeus Mozart",
+   "composerLife": "1756-1791",
+   "performer": "列昂尼德·克罗伊策（钢琴）",
+   "performerDetail": "Gramophone 唱片 95178；历史唱片转录",
+   "recordedYear": "约1920年代",
+   "era": "历史录音 · 古典主义",
+   "category": "古典音乐",
+   "instrument": "钢琴",
+   "genre": "奏鸣曲",
+   "scenes": [
+    "study"
+   ],
+   "tags": [
+    "平稳",
+    "优雅",
+    "历史录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/PDP-CH_-_Leonid_Kreutzer%2C_piano_-_Piano_Sonata_No._11_in_A_major%2C_K_331-300i_-_Mozart_-_Gramophone-95178-b27304.flac",
+    "format": "FLAC",
+    "quality": "无损 · 78转唱片转录",
+    "sizeMB": 179.16,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（PDP-CH 历史唱片数字化）",
+    "page": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_Leonid_Kreutzer%2C_piano_-_Piano_Sonata_No._11_in_A_major%2C_K_331-300i_-_Mozart_-_Gramophone-95178-b27304.flac",
+    "license": "Public domain",
+    "licenseNote": "瑞士公共领域项目（Public Domain Project）历史唱片数字化，Wikimedia Commons 转存，文件页载明首次发行/录制信息；具体录制/发行年份以来源页所载数据为准"
+   },
+   "background": "K.331 以变奏曲式开篇：那只著名的优雅主题后来因第三乐章「土耳其进行曲」而家喻户晓。俄罗斯裔钢琴家列昂尼德·克罗伊策是柏林黄金年代的重要教育家（学生包括小泽征尔的老师斋藤秀雄），这份 Gramophone 唱片保留了二十世纪初键盘发音清脆直接的风格。",
+   "rare": true,
+   "featured": false,
+   "playSeeds": 3,
+   "addedAt": "2026-09-03"
+  },
+  {
+   "id": "x01",
+   "title": "戏曲《游龙戏凤》选段· 第一段",
+   "titleEn": "Yu lung hsi fêng (Wandering Dragon Plays with Phoenix), Part 1 of 12",
+   "composer": "传统戏曲（作者佚名）",
+   "composerLife": "",
+   "performer": "中国女戏班（戏班名不详）",
+   "performerDetail": "1901年9月27日在剧场舞台实地录制，双机同时录音",
+   "recordedYear": "1901",
+   "era": "清末",
+   "category": "戏曲曲艺",
+   "instrument": "戏班合演",
+   "genre": "戏曲",
+   "scenes": [
+    "nostalgia"
+   ],
+   "tags": [
+    "怀旧",
+    "皮黄",
+    "最早中国录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%E9%81%8A%E9%BE%8D%E6%88%B2%E9%B3%B3_%3D_Yu_lung_hsi_f%C3%AAng_%28Wandering_Dragon_Plays_with_Phoenix%29%2C_Part_One_of_Twelve%2C_41-41a_%28scy_2768-2769%29.mp3",
+    "format": "MP3",
+    "quality": "蜡筒转录",
+    "sizeMB": 5.87,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（美国自然历史博物馆希夫远征队田野录音）",
+    "page": "https://commons.wikimedia.org/wiki/File:%E9%81%8A%E9%BE%8D%E6%88%B2%E9%B3%B3_%3D_Yu_lung_hsi_f%C3%AAng_%28Wandering_Dragon_Plays_with_Phoenix%29%2C_Part_One_of_Twelve%2C_41-41a_%28scy_2768-2769%29.mp3",
+    "license": "Public domain",
+    "licenseNote": "伯托尔德·劳费尔（Berthold Laufer）1901 年代表美国自然历史博物馆（雅各布·希夫远征队）在华录制的田野蜡筒，19 世纪末—20 世纪初录音，依来源标注已进入公有领域"
+   },
+   "background": "正德皇帝微服梅龙镇，与店主李凤姐插科打诨——《游龙戏凤》是皮黄系统的经典玩笑戏。1901 年 9 月 27 日，德国汉学家劳费尔在中国剧场的舞台上架起两台留声机，录下女戏班演出的此剧十二段唱片之第一段，是现存最早的中国戏曲录音之一，可闻百年前剧场的原声喧腾。",
+   "rare": true,
+   "featured": true,
+   "playSeeds": 20,
+   "addedAt": "2026-09-04"
+  },
+  {
+   "id": "x02",
+   "title": "戏曲《大香山》· 第十段",
+   "titleEn": "Ta hsiang shan (Great Fragrant Mountain), Part 10 of 10",
+   "composer": "传统戏曲（作者佚名）",
+   "composerLife": "",
+   "performer": "中国乐人戏班（名不详）",
+   "performerDetail": "1901年11月18—19日录制，双机同时录音，乐队伴奏完整",
+   "recordedYear": "1901",
+   "era": "清末",
+   "category": "戏曲曲艺",
+   "instrument": "戏班合演",
+   "genre": "戏曲",
+   "scenes": [
+    "nostalgia",
+    "documentary"
+   ],
+   "tags": [
+    "怀旧",
+    "观音戏",
+    "最早中国录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E5%A4%A7%E9%A6%99%E5%B1%B1_%3D_Ta_hsiang_shan_%28Great_Fragrant_Mountain%29%2C_Part_Ten_of_Ten%2C_72-72a_%28scy_2829-2830%29.mp3",
+    "format": "MP3",
+    "quality": "蜡筒转录",
+    "sizeMB": 5.72,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（美国自然历史博物馆希夫远征队田野录音）",
+    "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%A6%99%E5%B1%B1_%3D_Ta_hsiang_shan_%28Great_Fragrant_Mountain%29%2C_Part_Ten_of_Ten%2C_72-72a_%28scy_2829-2830%29.mp3",
+    "license": "Public domain",
+    "licenseNote": "伯托尔德·劳费尔（Berthold Laufer）1901 年代表美国自然历史博物馆（雅各布·希夫远征队）在华录制的田野蜡筒，19 世纪末—20 世纪初录音，依来源标注已进入公有领域"
+   },
+   "background": "《大香山》演妙善公主修行得道、终成观音的故事，是旧时庙会常演的香火戏，唱做繁重、场面宏大。此为劳费尔 1901 年 11 月 18—19 日用两台机器同时录下的十段唱片之末段，乐队齐全、锣鼓铿然，听者可以借此想象清末剧场「满堂彩」的声音现场。",
+   "rare": true,
+   "featured": false,
+   "playSeeds": 12,
+   "addedAt": "2026-09-04"
+  },
+  {
+   "id": "m01",
+   "title": "上海流行歌曲（残段）· 第三部分",
+   "titleEn": "Shanghainese popular song, possibly Part 3 of 5 (scy 2921-2922)",
+   "composer": "佚名",
+   "composerLife": "",
+   "performer": "中国乐人乐队（名不详）",
+   "performerDetail": "1901年11月18—19日录制；劳费尔记述「乐队编制完整」",
+   "recordedYear": "1901",
+   "era": "清末",
+   "category": "民国老唱片",
+   "instrument": "乐队合奏",
+   "genre": "时调小曲",
+   "scenes": [
+    "nostalgia"
+   ],
+   "tags": [
+    "怀旧",
+    "上海",
+    "时调",
+    "最早中国录音"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Shanghainese_popular_song%2C_possibly_Part_Three_of_Five%2C_127-127a_%28scy_2921-2922%29.mp3",
+    "format": "MP3",
+    "quality": "蜡筒转录",
+    "sizeMB": 5.73,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons（美国自然历史博物馆希夫远征队田野录音）",
+    "page": "https://commons.wikimedia.org/wiki/File:Shanghainese_popular_song%2C_possibly_Part_Three_of_Five%2C_127-127a_%28scy_2921-2922%29.mp3",
+    "license": "Public domain",
+    "licenseNote": "伯托尔德·劳费尔（Berthold Laufer）1901 年代表美国自然历史博物馆（雅各布·希夫远征队）在华录制的田野蜡筒，19 世纪末—20 世纪初录音，依来源标注已进入公有领域；曲目名称沿用档案馆原注，原题与词句尚待考释"
+   },
+   "background": "这是劳费尔 1901 年在上海录下的一段流行曲调，档案馆原注仅记作「上海流行歌曲，或为全曲五段之第三段」。乐队齐整、锣鼓与丝弦相和，保留了唱片工业进入中国之前市井音乐的本来面目。它属于本馆「民国老唱片」馆区的前史——中国商业录音时代的黎明前夜。",
+   "rare": true,
+   "featured": true,
+   "playSeeds": 16,
+   "addedAt": "2026-09-04"
+  },
+  {
+   "id": "r01",
+   "title": "义勇军进行曲（1935年百代首版·档案条目）",
+   "titleEn": "March of the Volunteers (Pathé 1935 first pressing – archival entry)",
+   "composer": "聂耳（曲）· 田汉（词）",
+   "composerEn": "Nie Er / Tian Han",
+   "composerLife": "聂耳 1912-1935 · 田汉 1898-1968",
+   "performer": "袁牧之、顾梦鹤等（1935年百代唱片原版演唱者）",
+   "performerDetail": "1935 年电通影片公司《风云儿女》主题歌",
+   "recordedYear": "1935",
+   "era": "民国 · 抗战救亡",
+   "category": "红色歌曲",
+   "instrument": "声乐",
+   "genre": "进行曲",
+   "scenes": [],
+   "tags": [
+    "国歌",
+    "救亡",
+    "档案"
+   ],
+   "durationSec": 0,
+   "scores": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%89%8B%E7%A8%BF.jpg",
+     "label": "聂耳手稿影印",
+     "page": "https://commons.wikimedia.org/wiki/File:%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%89%8B%E7%A8%BF.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/March_of_the_Volunteers_%28Pathe_Records_-_1935%29.jpg",
+     "label": "1935年百代（Pathé）唱片标签",
+     "page": "https://commons.wikimedia.org/wiki/File:March_of_the_Volunteers_%28Pathe_Records_-_1935%29.jpg"
+    }
+   ],
+   "source": {
+    "name": "Wikimedia Commons（两份图档文件页）",
+    "page": "https://commons.wikimedia.org/wiki/File:%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%89%8B%E7%A8%BF.jpg",
+    "license": "Public domain",
+    "licenseNote": "手稿与唱片标签图档均为公有领域（Commons 标注 PD）。词曲作者聂耳 1935 年、田汉 1968 年逝世，词曲均已过保护期"
+   },
+   "audioNote": "为何暂无音频：词曲已进入公有领域，但 1935 年百代（Pathé）首版录音作为录音制品，在美国依《音乐现代化法案》需至 2036 年届满保护；按本馆「跨辖区均属公有领域」的红线，暂不提供该录音外链。可在国家图书馆·中国记忆、互联网档案馆等来源库（见资源来源页）按出处自行查证调阅。",
+   "background": "《义勇军进行曲》由田汉作词、聂耳作曲，是 1935 年影片《风云儿女》的主题歌，同年由百代唱片灌录首版（唱片编号 34848b）。歌曲以三连音上行与「起来！」的呐喊构成进行曲骨架，1949 年起为代国歌、1982 年正式定为国歌。本条目为图档档案，保存手稿与首版唱片标签两份影像。",
+   "featured": true,
+   "playSeeds": 10,
+   "addedAt": "2026-09-05"
+  },
+  {
+   "id": "f01",
+   "title": "葫芦丝独奏",
+   "titleEn": "Traditional Chinese Gourd Flute Hulusi (solo)",
+   "composer": "传统曲调（整理者不详）",
+   "composerLife": "",
+   "performer": "iluppai",
+   "performerDetail": "录音者于 Wikimedia Commons 以 CC0 释出",
+   "recordedYear": "2013",
+   "era": "当代录音（曲目为传统曲调）",
+   "category": "民间音乐",
+   "instrument": "葫芦丝",
+   "genre": "器乐独奏",
+   "scenes": [
+    "live",
+    "video"
+   ],
+   "tags": [
+    "柔和",
+    "明快",
+    "云南"
+   ],
+   "durationSec": 0,
+   "audio": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chinese_flute_Hulusi.wav",
+    "format": "WAV",
+    "quality": "无损 WAV",
+    "sizeMB": 2.68,
+    "cors": true
+   },
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_flute_Hulusi.wav",
+    "license": "CC0",
+    "licenseNote": "录音者以 CC0（公有领域贡献）释出，可自由商用；曲调为传统曲目"
+   },
+   "background": "葫芦丝是云南德昂、阿昌、彝、汉等民族共用的簧管乐器，主管开孔、附两根装饰副管，音色如雾中笛语。这段 2013 年录制的独奏以 CC0 完全奉献给公有领域，是本馆少有的「零版权」当代录音——曲调本身则源自口耳相传的传统曲谱，年代已不可考。",
+   "rare": false,
+   "featured": false,
+   "playSeeds": 8,
+   "addedAt": "2026-09-05"
+  },
+  {
+   "id": "p01",
+   "title": "茉莉花· 记谱档案三帧",
+   "titleEn": "Mo Li Hua (Jasmine Flower) – notation archive",
+   "composer": "传统民歌（记谱：John Barrow 等）",
+   "composerLife": "",
+   "performer": "—（乐谱档案，无音频）",
+   "performerDetail": "含 1832 年歌词页、1877 年月琴谱刊本与 Barrow 记谱",
+   "recordedYear": "1832-1877（刊本年代）",
+   "era": "清代",
+   "category": "乐谱库",
+   "instrument": "工尺谱/五线谱",
+   "genre": "民歌",
+   "scenes": [],
+   "tags": [
+    "茉莉花",
+    "民歌",
+    "工尺谱",
+    "记谱"
+   ],
+   "durationSec": 0,
+   "scores": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jasmine_barrow.svg",
+     "label": "旋律与歌词（据 John Barrow 记谱，C大调）",
+     "page": "https://commons.wikimedia.org/wiki/File:Jasmine_barrow.svg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Molihua1877.jpg",
+     "label": "《月琴楽譜》刊本（1877，中井新六）",
+     "page": "https://commons.wikimedia.org/wiki/File:Molihua1877.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lyrics_of_the_song_Mo_Li_Hua_1832_01.jpg",
+     "label": "歌词页其一（1832 年刊本，CC0）",
+     "page": "https://commons.wikimedia.org/wiki/File:Lyrics_of_the_song_Mo_Li_Hua_1832_01.jpg"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lyrics_of_the_song_Mo_Li_Hua_1832_02.jpg",
+     "label": "歌词页其二（1832 年刊本，CC0）",
+     "page": "https://commons.wikimedia.org/wiki/File:Lyrics_of_the_song_Mo_Li_Hua_1832_02.jpg"
+    }
+   ],
+   "source": {
+    "name": "Wikimedia Commons（多份图档文件页）",
+    "page": "https://commons.wikimedia.org/wiki/File:Jasmine_barrow.svg",
+    "license": "Public domain / CC0",
+    "licenseNote": "四份图档分别标注 Public domain 或 CC0，均在保护期之外或被权利人完全奉献"
+   },
+   "audioNote": "本条目为乐谱档案条目，不含音频。三帧图档构成《茉莉花》西传的完整链条：1832 年日本刊本歌词页 → 1877 年《月琴楽譜》刊本 → 巴罗（John Barrow）记谱的五线谱版，可作民歌流变研究的对照材料。",
+   "background": "《茉莉花》是中国流传最广的民歌之一。英国使团随员约翰·巴罗在《中国旅行记》（1804）中最早把它记成五线谱带回欧洲，使普契尼在《图兰朵》中得以引用。本条目汇集 1832 年歌词刊本、1877 年《月琴楽譜》与巴罗系记谱三组图档，呈现一首民歌的纸上旅程。",
+   "featured": false,
+   "playSeeds": 9,
+   "addedAt": "2026-09-06"
+  },
+  {
+   "id": "p02",
+   "title": "巩金瓯· 乐谱与工尺谱（1911）",
+   "titleEn": "Gong Jinou – sheet music and Gongche notation (1911)",
+   "composer": "严复（词）· 溥侗（曲）",
+   "composerLife": "严复 1854-1921 · 溥侗 1871-1952",
+   "performer": "—（乐谱档案，无音频）",
+   "performerDetail": "清政府颁定国歌，宣统三年（1911）",
+   "recordedYear": "1911",
+   "era": "清末",
+   "category": "乐谱库",
+   "instrument": "工尺谱/五线谱",
+   "genre": "颂歌",
+   "scenes": [],
+   "tags": [
+    "国歌",
+    "工尺谱",
+    "清末"
+   ],
+   "durationSec": 0,
+   "scores": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sheet_music_and_Gongche_notation_of_Gong_Jinou.jpg",
+     "label": "五线谱与工尺谱对照（1911）",
+     "page": "https://commons.wikimedia.org/wiki/File:Sheet_music_and_Gongche_notation_of_Gong_Jinou.jpg"
+    }
+   ],
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sheet_music_and_Gongche_notation_of_Gong_Jinou.jpg",
+    "license": "Public domain",
+    "licenseNote": "Commons 标注 Public domain；词曲作者均去世逾 50 年"
+   },
+   "audioNote": "本条目为乐谱档案条目，不含音频。《巩金瓯》颁行六日后武昌起义爆发，几乎未及灌录通行录音，本馆暂未寻得许可状态可逐案核实的历史音频，故仅存乐谱。欢迎从来源库进一步考证。",
+   "background": "《巩金瓯》是中国历史上第一首法定国歌，宣统三年十月初八（1911 年）由清政府颁定：词出严复，谱出溥侗，取「巩固金瓯」的吉语，五线谱与工尺谱并注以利传习。颁行未久帝制崩解，这支「金瓯」之歌遂成绝响，是清末新政文化遗产的独特标本。",
+   "rare": true,
+   "featured": false,
+   "playSeeds": 6,
+   "addedAt": "2026-09-06"
+  },
+  {
+   "id": "p03",
+   "title": "无伴奏大提琴组曲第一号· 抄本页",
+   "titleEn": "Cello Suite No. 1, BWV 1007 – manuscript page",
+   "composer": "巴赫",
+   "composerEn": "Johann Sebastian Bach",
+   "composerLife": "1685-1750",
+   "performer": "—（手稿档案，无音频）",
+   "performerDetail": "安娜·玛格达莱娜·巴赫抄本（约1727—1731年誊写）",
+   "recordedYear": "约1727-1731（抄本年代）",
+   "era": "巴洛克",
+   "category": "乐谱库",
+   "instrument": "大提琴",
+   "genre": "组曲",
+   "scenes": [],
+   "tags": [
+    "手稿",
+    "大提琴",
+    "巴赫"
+   ],
+   "durationSec": 0,
+   "scores": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bach1sa2.PNG",
+     "label": "第一组曲 G大调 BWV1007 抄本页（安娜·玛格达莱娜·巴赫抄本）",
+     "page": "https://commons.wikimedia.org/wiki/File:Bach1sa2.PNG"
+    }
+   ],
+   "source": {
+    "name": "Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach1sa2.PNG",
+    "license": "Public domain",
+    "licenseNote": "18 世纪抄本扫描件，Commons 标注 Public domain"
+   },
+   "audioNote": "本条目为手稿档案条目，不含音频。巴赫《无伴奏大提琴组曲》没有作者手稿传世，现存最早来源正是其第二任妻子安娜·玛格达莱娜的抄本——这一页即出自该抄本，前奏曲的琶音在此化为墨迹。",
+   "background": "巴赫于 1717—1723 年在克腾写下六首无伴奏大提琴组曲，当时这件乐器还被视为伴奏低音而非独奏主角。作品完成后近两百年间几乎无人公开演奏，直至 1890 年代由卡萨尔斯在旧书店重新发现。此抄本页出自安娜·玛格达莱娜·巴赫之手，是全曲最接近巴赫时代的文献。",
+   "featured": false,
+   "playSeeds": 5,
+   "addedAt": "2026-09-06"
+  }
+ ]
+};
