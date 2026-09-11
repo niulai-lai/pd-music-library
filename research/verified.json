@@ -1,0 +1,591 @@
+[
+ {
+  "title": "File:Beethoven - Coriolan Overture, Op. 62 (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Beethoven_-_Coriolan_Overture%2C_Op._62_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 88400932,
+  "sizeMB": 88.4,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ludwig_van_Beethoven\" class=\"extiw\" title=\"w:en:Ludwig van Beethoven\"><span title=\"German composer (1770-1827)\">Ludwig van Beethoven</span></a></bdi>",
+  "date": "2012",
+  "desc": "Beethoven - Coriolan Overture, Op. 62",
+  "head": {
+   "status": "HTTP/1.1 200 OK",
+   "len": "88400932",
+   "cors": "*",
+   "type": "audio/x-flac"
+  }
+ },
+ {
+  "title": "File:Beethoven - Egmont Overture, Op. 84 (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beethoven_-_Egmont_Overture%2C_Op._84_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 94777164,
+  "sizeMB": 94.78,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ludwig_van_Beethoven\" class=\"extiw\" title=\"w:en:Ludwig van Beethoven\"><span title=\"German composer (1770-1827)\">Ludwig van Beethoven</span></a></bdi>",
+  "date": "2012",
+  "desc": "Beethoven - Egmont Overture, Op. 84",
+  "head": {
+   "status": "HTTP/1.1 200 OK",
+   "len": "94777164",
+   "cors": "*",
+   "type": "audio/x-flac"
+  }
+ },
+ {
+  "title": "File:Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - I. Allegro con brio (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Beethoven_-_Symphony_No._3_in_E_flat_major%2C_Op._55_%27Eroica%27_-_I._Allegro_con_brio_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 159115806,
+  "sizeMB": 159.12,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ludwig_van_Beethoven\" class=\"extiw\" title=\"w:en:Ludwig van Beethoven\"><span title=\"German composer (1770-1827)\">Ludwig van Beethoven</span></a></bdi>",
+  "date": "2012",
+  "desc": "Beethoven - Symphony No. 3 in E flat major, Op. 55 'Eroica' - I. Allegro con brio",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Mozart - Le nozze di Figaro, K492 - Overture (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 44098215,
+  "sizeMB": 44.1,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozart\"><span title=\"Austrian composer of the Classical period (1756-1791)\">Wolfgang ",
+  "date": "2012",
+  "desc": "Mozart - Le nozze di Figaro, K492 - Overture",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Mozart - Symphony No. 40 in G minor, K550 - II. Andante (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_II._Andante_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 75011718,
+  "sizeMB": 75.01,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"w:en:Wolfgang Amadeus Mozart\"><span title=\"Austrian composer of the Classical period (1756-1791)\">Wolfgang ",
+  "date": "2012",
+  "desc": "Mozart - Symphony No. 40 in G minor, K550 - II. Andante",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Chopin - Nocturne No. 20 in C-sharp minor, B. 49 (Frank Levy).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chopin_-_Nocturne_No._20_in_C-sharp_minor%2C_B._49_%28Frank_Levy%29.flac",
+  "mime": "audio/flac",
+  "bytes": 51837810,
+  "sizeMB": 51.84,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Fr%C3%A9d%C3%A9ric_Chopin\" class=\"extiw\" title=\"w:en:Frédéric Chopin\"><span title=\"Polish composer and pianist (1810–1849)\">Frédéric Chopin</span></a></b",
+  "date": "circa 2014<div style=\"display: none;\">date QS:P,+2014-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+  "desc": "Chopin - Nocturne No. 20 in C-sharp minor, B. 49 (Frank Levy)",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - I. Morning Mood (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_I._Morning_Mood_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 39347119,
+  "sizeMB": 39.35,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edvard_Grieg\" class=\"extiw\" title=\"w:en:Edvard Grieg\"><span title=\"Norwegian composer and pianist (1843–1907)\">Edvard Grieg</span></a></bdi>",
+  "date": "2012",
+  "desc": "​Grieg - Peer Gynt Suite No. 1, Op. 46 - I. Morning Mood",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Grieg - Peer Gynt Suite No. 1, Op. 46 - IV. In the Hall of the Mountain King (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Grieg_-_Peer_Gynt_Suite_No._1%2C_Op._46_-_IV._In_the_Hall_of_the_Mountain_King_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 25778747,
+  "sizeMB": 25.78,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edvard_Grieg\" class=\"extiw\" title=\"w:en:Edvard Grieg\"><span title=\"Norwegian composer and pianist (1843–1907)\">Edvard Grieg</span></a></bdi>",
+  "date": "2012",
+  "desc": "Grieg - Peer Gynt Suite No. 1, Op. 46 - IV. In the Hall of the Mountain King",
+  "head": {
+   "status": "HTTP/1.1 200 OK",
+   "len": "25778747",
+   "cors": "*",
+   "type": "audio/x-flac"
+  }
+ },
+ {
+  "title": "File:Prelude Op. 28 no. 15.mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Prelude_Op._28_no._15.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 5668200,
+  "sizeMB": 5.67,
+  "license": "CC0",
+  "usage": "Creative Commons Zero, Public Domain Dedication",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/Frederic_Chopin\" class=\"mw-redirect\" title=\"Frederic Chopin\">Frederic Chopin</a>",
+  "date": "between 1810 and 1849<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1810-00-00T00:00:00Z/9,P1326,+",
+  "desc": "Recording of music written by <a href=\"//commons.wikimedia.org/wiki/Frederic_Chopin\" class=\"mw-redirect\" title=\"Frederic Chopin\">Frederic Chopin</a>",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Smetana - Má Vlast - Vltava (Musopen Symphony).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Smetana_-_M%C3%A1_Vlast_-_Vltava_%28Musopen_Symphony%29.flac",
+  "mime": "audio/flac",
+  "bytes": 143713118,
+  "sizeMB": 143.71,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Bed%C5%99ich_Smetana\" class=\"extiw\" title=\"w:en:Bedřich Smetana\"><span title=\"Czech composer\">Bedřich Smetana</span></a></bdi>",
+  "date": "2012",
+  "desc": "Smetana - Má Vlast - Vltava",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests (f061ab2)",
+   "len": "1991",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Bach - Orchestral Suite No. 3 in D major, BWV 1068 - Air (Menuhin).flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bach_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_%28Menuhin%29.flac",
+  "mime": "audio/flac",
+  "bytes": 10723076,
+  "sizeMB": 10.72,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "Concert Films Corporation/Paul Gordon",
+  "date": "1948",
+  "desc": "Bach - Orchestral Suite No. 3 in D major, BWV 1068 - Air (Menuhin)",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Canon (2004) - Strolling Strings - United States Air Force Band.mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Canon_%282004%29_-_Strolling_Strings_-_United_States_Air_Force_Band.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 10842858,
+  "sizeMB": 10.84,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "Composition: Johann Pachelbel; Arrangement: Frank Hudson; Performance: United States Air Force Band, Strolling Strings; Recording: United States Air Force",
+  "date": "2004",
+  "desc": "Pachelbel's \"Canon\" performed by the Strolling Strings of the United States Air Force Band. Track 22 from <i>The Strolling Strings 50th Anniversary</i> (2004).",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Clair de Lune - Wright Brass - United States Air Force Band of Flight.mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Clair_de_Lune_-_Wright_Brass_-_United_States_Air_Force_Band_of_Flight.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 3945327,
+  "sizeMB": 3.95,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "Composition: Claude Debussy; Performance: United States Air Force Band of Flight, Wright Brass; Recording: United States Air Force",
+  "date": "1993",
+  "desc": "\"Clair de Lune\" performed by the Wright Brass of the United States Air Force Band of Flight. Track 14 from <i>Blue Skies</i> (1993).",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:PDP-CH - Adolf Busch Chamber Players - Adolf Busch - Suite No. 3 in D major, BWV 1068 - Air - Bach - Hmv-db3019-2ea3895.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/PDP-CH_-_Adolf_Busch_Chamber_Players_-_Adolf_Busch_-_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_-_Bach_-_Hmv-db3019-2ea3895.flac",
+  "mime": "audio/x-flac",
+  "bytes": 176168802,
+  "sizeMB": 176.17,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "",
+  "date": "",
+  "desc": "<p>1st release date: 1937 </p><p>1st recording date: 27 October 1936 </p><p>Place of recording: unknown </p><p>Author(s)/Composer(s): 1st violin and continuo parts: <a href=\"https://en.wikipedia.org/wiki/Johann_Sebastian_Bach\" class=\"extiw\" title=\"wikipedia:Johann Sebastian Bach\">Johann Sebastian Bach</a> (1685-1750), Trumpet, oboe, and timpani parts: <a href=\"https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach\" class=\"extiw\" title=\"wikipedia:Carl Philipp Emanuel Bach\">Carl Philipp Emanuel B",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Satie Gymnopedie No 1 performed by Michael Laucke.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Satie_Gymnopedie_No_1_performed_by_Michael_Laucke.flac",
+  "mime": "audio/x-flac",
+  "bytes": 10232304,
+  "sizeMB": 10.23,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Mlaucke\" title=\"User:Mlaucke\">Mlaucke</a>",
+  "date": "2001-07-23",
+  "desc": "Originally written for the piano, the Gymnopedies are extremely well-suited to the natural idiomatic expression of the guitar.  This arrangement of the Three Gymnopedies comprises ALL the notes of the original piano versions: a complex process since all the piano sounds must fit comfortably, or uncomfortably, onto the six strings of the guitar.",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:PDP-CH - Leonid Kreutzer, piano - Piano Sonata No. 11 in A major, K 331-300i - Mozart - Gramophone-95178-b27304.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/PDP-CH_-_Leonid_Kreutzer%2C_piano_-_Piano_Sonata_No._11_in_A_major%2C_K_331-300i_-_Mozart_-_Gramophone-95178-b27304.flac",
+  "mime": "audio/x-flac",
+  "bytes": 179155169,
+  "sizeMB": 179.16,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "",
+  "date": "",
+  "desc": "<p>Title/Work: <a href=\"https://en.wikipedia.org/wiki/wikipedia:Piano_Sonata_No._11_(Mozart)\" class=\"extiw\" title=\"wikipedia:wikipedia:Piano Sonata No. 11 (Mozart)\">Piano Sonata No. 11 in A major, K 331/300i</a> </p><p>Content: Theme with variations, Part 1  </p><p>Genre(s): Piano sonatas </p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart\" class=\"extiw\" title=\"wikipedia:Wolfgang Amadeus Mozart\">Wolfgang Amadeus Mozart</a> (1756-1791) </p><p>Music arrange",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:PDP-CH - National Symphony Orchestra of London - Malcolm Sargent, conductor - Symphony No. 5 in C minor, Op. 67 - 3rd Movement - Allegro - Beethoven - Decca-k1128-ar8994.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PDP-CH_-_National_Symphony_Orchestra_of_London_-_Malcolm_Sargent%2C_conductor_-_Symphony_No._5_in_C_minor%2C_Op._67_-_3rd_Movement_-_Allegro_-_Beethoven_-_Decca-k1128-ar8994.flac",
+  "mime": "audio/x-flac",
+  "bytes": 114814893,
+  "sizeMB": 114.81,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "",
+  "date": "",
+  "desc": "<p>Label: Decca Records </p><p>Cat. no.: K 1128 </p><p>Order number: AR 8994 </p><p>Matrix/StamperID: AR 8994-2 </p><p>1st release date: June 1945 </p><p>1st recording date: 2 January 1945 </p><p>Place of recording: <a href=\"https://en.wikipedia.org/wiki/Kingsway_Hall\" class=\"extiw\" title=\"wikipedia:Kingsway Hall\">Kingsway Hall</a>, London (United Kingdom) (printed on record) </p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Ludwig_van_Beethoven\" class=\"extiw\" title=\"wikipedia",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:PDP-CH - Philadelphia Orchestra - Leopold Stokowski - Nutcracker Suite, Opus 71A - Tchaikovsky - Chinese Dance - Dance of the Flutes - Hmv-db2541-2a87003.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PDP-CH_-_Philadelphia_Orchestra_-_Leopold_Stokowski_-_Nutcracker_Suite%2C_Opus_71A_-_Tchaikovsky_-_Chinese_Dance_-_Dance_of_the_Flutes_-_Hmv-db2541-2a87003.flac",
+  "mime": "audio/x-flac",
+  "bytes": 115287855,
+  "sizeMB": 115.29,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "",
+  "date": "",
+  "desc": "<p>1st release date: 1934 </p><p>1st recording date: 1934 </p><p>Place of recording: Camden Church Studio No. 2 (Trinity Church Studio), Camden, New Jersey (United States) </p><p>Author(s)/Composer(s): <a href=\"https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky\" class=\"extiw\" title=\"wikipedia:Pyotr Ilyich Tchaikovsky\">Pyotr Ilyich Tchaikovsky</a> (1840-1893) </p><p>Lyricist(s): none </p><p>Conductor: <a href=\"https://en.wikipedia.org/wiki/Leopold_Stokowski\" class=\"extiw\" title=\"wikipedia:Leo",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:PDP-CH - The Melachrino Orchestra - George Melachrino - Orchestral Suite No. 3 in D major, BWV 1068 - Air on the G String - Johann Sebastian Bach - Hmv-c3775-2ea12475.flac",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/PDP-CH_-_The_Melachrino_Orchestra_-_George_Melachrino_-_Orchestral_Suite_No._3_in_D_major%2C_BWV_1068_-_Air_on_the_G_String_-_Johann_Sebastian_Bach_-_Hmv-c3775-2ea12475.flac",
+  "mime": "audio/x-flac",
+  "bytes": 142926274,
+  "sizeMB": 142.93,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "",
+  "date": "",
+  "desc": "<p>Title/Work: <a href=\"https://en.wikipedia.org/wiki/Orchestral_Suite_No._3_(Bach)\" class=\"extiw\" title=\"wikipedia:Orchestral Suite No. 3 (Bach)\">Orchestral Suite No. 3 in D major, BWV 1068</a> </p><p>Content: <a href=\"https://en.wikipedia.org/wiki/Air_on_the_G_String\" class=\"extiw\" title=\"wikipedia:Air on the G String\">Air on the G String</a> </p><p>Genre(s): Orchestral suites </p><p>Author(s)/(Composer(s): <a href=\"https://en.wikipedia.org/wiki/Johann_Sebastian_Bach\" class=\"extiw\" title=\"wiki",
+  "head": {
+   "status": "?",
+   "len": "",
+   "cors": "",
+   "type": ""
+  }
+ },
+ {
+  "title": "File:遊龍戲鳳 = Yu lung hsi fêng (Wandering Dragon Plays with Phoenix), Part One of Twelve, 41-41a (scy 2768-2769).mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%E9%81%8A%E9%BE%8D%E6%88%B2%E9%B3%B3_%3D_Yu_lung_hsi_f%C3%AAng_%28Wandering_Dragon_Plays_with_Phoenix%29%2C_Part_One_of_Twelve%2C_41-41a_%28scy_2768-2769%29.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 5871150,
+  "sizeMB": 5.87,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "An unidentified group of Chinese musicians: \"I engaged a band of female actors and took the plays on the stage of their theatre.  I used two machines which were working at the same time, one for the o",
+  "date": "1901-09-27",
+  "desc": "Field recordings performed by an unknown group of Chinese musicians, recorded by Berthold Laufer for Franz Boaz",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Chinese flute Hulusi.wav",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chinese_flute_Hulusi.wav",
+  "mime": "audio/wav",
+  "bytes": 2684852,
+  "sizeMB": 2.68,
+  "license": "CC0",
+  "usage": "Creative Commons Zero, Public Domain Dedication",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "iluppai",
+  "date": "2013-03-08",
+  "desc": "Traditional chinese gourd flute Hulusi.",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Shanghainese popular song, possibly Part Three of Five, 127-127a (scy 2921-2922).mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Shanghainese_popular_song%2C_possibly_Part_Three_of_Five%2C_127-127a_%28scy_2921-2922%29.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 5732540,
+  "sizeMB": 5.73,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "An unidentified group of Chinese musicians: \"These records [53-132, 53a-132a] were taken by me this week on Nov. 18/19 with two machines in the same manner as described [previously].  I had a full orc",
+  "date": "1901-11-18",
+  "desc": "Field recordings performed by an unknown group of Chinese musicians, recorded by Berthold Laufer for Franz Boaz",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:大香山 = Ta hsiang shan (Great Fragrant Mountain), Part Ten of Ten, 72-72a (scy 2829-2830).mp3",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E5%A4%A7%E9%A6%99%E5%B1%B1_%3D_Ta_hsiang_shan_%28Great_Fragrant_Mountain%29%2C_Part_Ten_of_Ten%2C_72-72a_%28scy_2829-2830%29.mp3",
+  "mime": "audio/mpeg",
+  "bytes": 5717509,
+  "sizeMB": 5.72,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "An unidentified group of Chinese musicians: \"These records [53-132, 53a-132a] were taken by me this week on Nov. 18/19 with two machines in the same manner as described [previously].  I had a full orc",
+  "date": "1901-11-18",
+  "desc": "Field recordings performed by an unknown group of Chinese musicians, recorded by Berthold Laufer for Franz Boaz",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Jasmine barrow.svg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jasmine_barrow.svg",
+  "mime": "image/svg+xml",
+  "bytes": 282222,
+  "sizeMB": 0.28,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Asoer\" title=\"User:Asoer\">Asoer</a>",
+  "date": "2011-03-21",
+  "desc": "This is the melody and lyrics (in Chinese and Hanyu Pinyin) of the Chinese folk song 茉莉花 (Mòlìhuā, \"Jasmine\"). The melody is according to John Barrow, but regulated to C major.",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Lyrics of the song Mo Li Hua 1832 01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lyrics_of_the_song_Mo_Li_Hua_1832_01.jpg",
+  "mime": "image/jpeg",
+  "bytes": 1807555,
+  "sizeMB": 1.81,
+  "license": "CC0",
+  "usage": "Creative Commons Zero, Public Domain Dedication",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E3%82%A6%E3%82%A3%E3%82%AD%E5%A4%AA%E9%83%8E&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ウィキ太郎 (page does not exist)\">ウィキ太郎</a>",
+  "date": "2025-07-30",
+  "desc": "Kireiken Toen: Kagetsu Kinpu (Kirei Kinpu / Gekkin Shi) (Preface dated 1832) — Scanned by KATO Toru, July 30, 2025",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:March of the Volunteers (Pathe Records - 1935).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/March_of_the_Volunteers_%28Pathe_Records_-_1935%29.jpg",
+  "mime": "image/jpeg",
+  "bytes": 14222,
+  "sizeMB": 0.01,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "Pathe Records",
+  "date": "",
+  "desc": "Picture of the single <a href=\"https://en.wikipedia.org/wiki/March_of_the_Volunteers\" class=\"extiw\" title=\"en:March of the Volunteers\">March of the Volunteers</a>, released by <a href=\"https://en.wikipedia.org/wiki/Pathe_Records\" class=\"extiw\" title=\"en:Pathe Records\">Pathe Records</a> in <a href=\"https://en.wikipedia.org/wiki/1935\" class=\"extiw\" title=\"en:1935\">1935</a>. The image is reduced in resolution.",
+  "head": {
+   "status": "HTTP/1.1 200 OK",
+   "len": "14222",
+   "cors": "*",
+   "type": "image/jpeg"
+  }
+ },
+ {
+  "title": "File:Molihua1877.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Molihua1877.jpg",
+  "mime": "image/jpeg",
+  "bytes": 1500275,
+  "sizeMB": 1.5,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "中井新六(NAKAI Shinroku)",
+  "date": "published in 1877,in Japan.",
+  "desc": "The title of this book is \"月琴楽譜\" (Gekkin Gakufu),An old music book of Chinese popular songs.",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:义勇军进行曲手稿.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E6%89%8B%E7%A8%BF.jpg",
+  "mime": "image/jpeg",
+  "bytes": 404238,
+  "sizeMB": 0.4,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "聂耳（1912-1935）",
+  "date": "before 1935<div style=\"display: none;\">date QS:P,+1935-00-00T00:00:00Z/7,P1326,+1935-00-00T00:00:00Z/9</div>",
+  "desc": "​义勇军进行曲手稿",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Bach1sa2.PNG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bach1sa2.PNG",
+  "mime": "image/png",
+  "bytes": 443403,
+  "sizeMB": 0.44,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "J.S. Bach",
+  "date": "2012-07-30",
+  "desc": "Scan of <a href=\"//commons.wikimedia.org/wiki/Anna_Magdalena_Bach\" class=\"mw-redirect\" title=\"Anna Magdalena Bach\">Anna Magdalena Bach</a>'s manuscript for <a href=\"//commons.wikimedia.org/wiki/Johann_Sebastian_Bach\" title=\"Johann Sebastian Bach\">Johann Sebastian Bach</a>'s <a href=\"https://en.wikipedia.org/wiki/Cello_Suites_(Bach)\" class=\"extiw\" title=\"en:Cello Suites (Bach)\">Cello Suite No. 1 in G major</a>, BWV 1007",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Lyrics of the song Mo Li Hua 1832 02.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lyrics_of_the_song_Mo_Li_Hua_1832_02.jpg",
+  "mime": "image/jpeg",
+  "bytes": 1559807,
+  "sizeMB": 1.56,
+  "license": "CC0",
+  "usage": "Creative Commons Zero, Public Domain Dedication",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E3%82%A6%E3%82%A3%E3%82%AD%E5%A4%AA%E9%83%8E&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ウィキ太郎 (page does not exist)\">ウィキ太郎</a>",
+  "date": "2025-07-30",
+  "desc": "Kireiken Toen: Kagetsu Kinpu (Kirei Kinpu / Gekkin Shi) (Preface dated 1832) — Scanned by KATO Toru, July 30, 2025",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ },
+ {
+  "title": "File:Sheet music and Gongche notation of Gong Jinou.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sheet_music_and_Gongche_notation_of_Gong_Jinou.jpg",
+  "mime": "image/jpeg",
+  "bytes": 454646,
+  "sizeMB": 0.45,
+  "license": "Public domain",
+  "usage": "Public domain",
+  "licenseUrl": "",
+  "artist": "Qing Government",
+  "date": "1911",
+  "desc": "Sheet music and Gongche notation of Gong Jinou",
+  "head": {
+   "status": "HTTP/1.1 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+   "len": "2281",
+   "cors": "*",
+   "type": "text/html; charset=utf-8"
+  }
+ }
+]
